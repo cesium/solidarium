@@ -1,0 +1,192 @@
+#main
+  nav ul
+    a
+      font-size: 13px
+    &.side-nav li
+      width: 100%
+    li
+      min-width: 80px
+      float: none
+  #challenges
+    .icon img
+      width: 55%
+      height: auto
+      margin-top: -50px
+    .features
+      margin-top: 50px
+      .feature
+        text-align: center
+    .challenge
+      color: #ec7850
+      padding: 0
+      .challenge-apply
+        color: #eaeaea
+        margin: 1% 8% 3% 8%
+      .challenge-title
+      .challenge-body
+        opacity: 0.93
+        pre
+          margin: 15px
+          padding-bottom: 10px
+        ul
+          color: #696969
+        .highlight
+          background-image: none
+          margin: 0
+          padding: 0
+          .mi
+            color: #39479B    
+
+  #description
+    .icon img
+      width: 55%
+      height: auto
+      margin-top: -50px
+    .features
+      margin-top: 50px
+      .feature
+        text-align: center
+    .challenge
+      color: #ED7950
+      padding: 0
+      .challenge-apply
+        color: #ED7950
+      .challenge-title
+      .challenge-body
+        pre
+          margin: 15px
+          padding-bottom: 10px
+        .highlight
+          background-image: none
+          margin: 0
+          padding: 0
+          .mi
+            color: #39479B
+  #contacts
+    padding-bottom: 50px
+    .fa-users
+      font-size: 110px
+    .contacts
+      .organiser-logo
+        margin: 0 auto
+        display: block
+        width: 60%
+        svg path
+          fill: #EAEAEA
+      .SocialBox
+        font-size: 30px
+        margin-bottom: 0px
+        display: flex
+        display: -webkit-flex
+        flex-direction: row
+        -webkit-flex-direction: row
+        justify-content: center
+        -webkit-justify-content: center
+        align-items: flex-start
+        div
+          margin: 5px
+        a
+          color: #FAFAFA
+          margin: 10px
+          &:hover, &:focus
+            color: #EB7956
+            margin: 10px
+    .slick-slider
+      .slick-track
+        display: flex
+        align-items: center
+      .slick-dots li button:before
+        color: #EAEAEA
+      .slick-prev
+        z-index: 5
+        left: 40px
+      .slick-next
+        z-index: 5
+        right: 40px
+      button:hover
+        border: 0px
+      .partner
+        &:hover, &:focus
+          outline: 0px none
+        img
+          max-height: 180px
+          max-width: 350px !important
+          margin: 0 auto
+        &.full-width img
+          width: 100%
+        a:visited, a:link
+          text-decoration: none
+
+  .section-lines
+    height: 100px
+    border-width: 3px
+    width: 50%
+    &.section-top
+      margin-top: -100px
+      border-bottom: solid
+    &.section-bottom
+      margin-bottom: -100px
+      border-top: solid
+      border-bottom: none
+    &.section-left
+      margin-left: 50%
+  .section-right
+    border-right: solid
+  .section-left
+    border-left: solid
+  .section-bottom
+    border-bottom: solid
+
+  .activity
+    padding: 50px
+    .activity-info
+      .activity-title
+        font-weight: 700
+        margin-top: 10px
+      .activity-date, .activity-time, .activity-place, .ativity-speaker
+        margin-top: 0px
+      .activity-desc
+        margin-top: 10px
+
+@media screen and (min-width: 525px)
+  #main
+    .img-mobile
+      display: none          
+
+@media screen and (max-width: 767px)
+  #main
+    #contacts
+      .fa-users
+        font-size: 90px
+
+@media screen and (max-width: 600px)
+  #main
+    #description
+      .feature
+        margin-bottom: 20px
+        .feature-description
+          margin-top: 0px
+
+    .activity
+      padding: 20px
+      .activity-info-wrapper
+        display: inline
+        .activity-info
+          text-align: center
+        .activity-img
+          width: 40%
+          margin: 0 auto
+          float: none
+
+  #sidenav-overlay
+    z-index: 50
+
+@media screen and (max-width: 525px)
+  #main
+    #contacts
+      .slick-slider
+        .slick-prev, .slick-next
+          display: none !important
+  #main
+    .img-desktop
+      display: none         
