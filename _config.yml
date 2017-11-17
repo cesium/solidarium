@@ -47,3 +47,10 @@ kramdown:
 sass:
   sass_dir: stylesheets/_sass/
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
