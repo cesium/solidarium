@@ -43,5 +43,7 @@ colors:
 kramdown:
   auto_ids:  false
 
+# Sass/SCSS
 sass:
   sass_dir: stylesheets/_sass/
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
