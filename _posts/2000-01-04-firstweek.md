@@ -3,6 +3,7 @@ title: "1ª Semana - 3 a 9"
 bg: firstweek
 color: white
 border-color: white
+button-bg: white
 next-bg: secondweek
 fa-icon: battery-full
 ---
@@ -38,7 +39,7 @@ fa-icon: battery-full
         {% endif %}
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
         {% if activity.typeform %}
-        <a class="waves-effect waves-light btn bg-{{ page.next-bg }}" href="{{ activity.typeform }}" target="blank">Inscrição</a>
+        <a class="waves-effect waves-light btn" href="{{ activity.typeform }}" target="blank">Inscrição</a>
         {% endif %}
       </div>
     </div>
@@ -71,7 +72,7 @@ fa-icon: battery-full
         {% endif %}
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
         {% if activity.typeform %}
-        <a class="waves-effect waves-light btn bg-{{ page.next-bg }}" href="{{ activity.typeform }}" target="blank">Inscrição</a>
+        <a class="waves-effect waves-light btn" href="{{ activity.typeform }}" target="blank">Inscrição</a>
         {% endif %}
       </div>
       <div class="col m3 activity-img valign img-desktop">

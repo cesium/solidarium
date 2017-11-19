@@ -1,17 +1,18 @@
 ---
-title: "4ª Semana - 24 a 30"
-bg: fourthweek
+title: "2ª Semana - 10 a 16"
+bg: secondweek
 color: white
 border-color: white
-next-bg: contacts
-fa-icon: battery-quarter
+button-bg: white
+next-bg: thirdweek
+fa-icon: battery-three-quarters
 ---
 
 <div class="section-lines section-top section-left"></div>
-{% for activity in site.data.agenda.fourthweek %}
+{% for activity in site.data.agenda.secondweek %}
   {% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}
   {% if thecycle == 'odd' %}
-  {% if activity == site.data.agenda.fourthweek.last %}
+  {% if activity == site.data.agenda.secondweek.last %}
   <div class="activity section-left">
   {% else %}
   <div class="activity section-left section-bottom">
@@ -35,13 +36,13 @@ fa-icon: battery-quarter
         {% endif %}
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
         {% if activity.typeform %}
-        <a class="waves-effect waves-light btn bg-{{ page.next-bg }}" href="{{ activity.typeform }}" target="blank">Inscrição</a>
+        <a class="waves-effect waves-light btn" href="{{ activity.typeform }}" target="blank">Inscrição</a>
         {% endif %}
       </div>
     </div>
   </div>
   {% else %}
-  {% if activity == site.data.agenda.fourthweek.last %}
+  {% if activity == site.data.agenda.secondweek.last %}
   <div class="activity section-right">
   {% else %}
   <div class="activity section-right section-bottom">
@@ -65,7 +66,7 @@ fa-icon: battery-quarter
         {% endif %}
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
         {% if activity.typeform %}
-        <a class="waves-effect waves-light btn bg-{{ page.next-bg }}" href="{{ activity.typeform }}" target="blank">Inscrição</a>
+        <a class="waves-effect waves-light btn" href="{{ activity.typeform }}" target="blank">Inscrição</a>
         {% endif %}
       </div>
       <div class="col m3 activity-img valign img-desktop">

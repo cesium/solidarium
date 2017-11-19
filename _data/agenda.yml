@@ -25,36 +25,59 @@ firstweek:
     speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
 
 secondweek:
-  - title: Workshop de JavaScript
-    time: 16h-18h
-    place: DI A2
-    image: javascript.png
-    typeform: https://cesium.typeform.com/to/KXQzu7
-    text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a target="_blank" href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta que é uma das linguagens essenciais para o desenvolvimento web.
-    speaker: <a target="_blank" href="https://github.com/pfac">Pedro Costa</a>
+  - title: Título da atividade 3
+    date: 4 de Dezembro
+    time: 16h-17h
+    place: CP2 1.01
+    image: seguranca.png
+    typeform: https://cesium.typeform.com/to/HKIJg7
+    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.'
+    speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
 
-  - title: Build your own WebExtension
-    time: 18h-19h30
-    place: DI A2
-    image: geenorbertk.png
-    typeform: https://cesium.typeform.com/to/l9TAMO
-    text: O Firefox começou a suportar WebExtensions, tornando fácil portar extensões para outros browsers. Vem aprender a tomar partido desta nova tecnologia e constrói a tua própria extensão.
-    speaker: <a target="_blank" href="https://github.com/9thscientist">Bruno Cancelinha</a>
+  - title: Título da atividade 4
+    date: 7 de Dezembro
+    time: 17h-19h
+    place: CP2 2.12
+    image: infotricks.png
+    typeform: https://cesium.typeform.com/to/xrourN
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.
+    speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
 
 thirdweek:
-  - title: Sessão de estudo de PF
-    time: 17h30-19h
-    place: DI 1.09
-    image: sessao_estudo.png
-    typeform: https://cesium.typeform.com/to/vSVsOQ
-    text: Sentes os testes a aproximarem-se e não te sentes preparado? A programação ainda é um bicho de 7 cabeças para ti? Não tem de ser! Aparece e vem tirar dúvidas e estudar connosco. A programação não tem de ser complicada.
+  - title: Título da atividade 5
+    date: 4 de Dezembro
+    time: 16h-17h
+    place: CP2 1.01
+    image: seguranca.png
+    typeform: https://cesium.typeform.com/to/HKIJg7
+    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.'
+    speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
+
+  - title: Título da atividade 6
+    date: 7 de Dezembro
+    time: 17h-19h
+    place: CP2 2.12
+    image: infotricks.png
+    typeform: https://cesium.typeform.com/to/xrourN
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.
+    speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
 
 fourthweek:
-  - title: Informática, mas que raio?!
+  - title: Título da atividade 7
+    date: 4 de Dezembro
+    time: 16h-17h
+    place: CP2 1.01
+    image: seguranca.png
+    typeform: https://cesium.typeform.com/to/HKIJg7
+    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.'
+    speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
+
+  - title: Título da atividade 8
+    date: 7 de Dezembro
     time: 17h-19h
-    place: DI 0.11
-    image: informatictricks.png
-    typeform: https://cesium.typeform.com/to/jspHTH
-    text: A Informática é um hobbie mas não uma vocação? Não és de um curso da área de Informática mas estás interessado em aprender mais? Então aparece! Sim estamos a falar para ti! A Informática não é só para nerds!
-    speaker: <a target="_blank" href="https://www.facebook.com/richard33z">Ricardo Pereira</a>, <a target="_blank" href="https://www.facebook.com/Simbs38">André Gonçalves</a>
+    place: CP2 2.12
+    image: infotricks.png
+    typeform: https://cesium.typeform.com/to/xrourN
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.
+    speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
 

@@ -20,12 +20,13 @@ html { box-sizing: border-box; }
 /* ----- per-post colors! ----- */
 {% for node in site.posts %}
   {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+  {% capture bg-btn %}{% if site.colors[node.button-bg] %}{{ site.colors[node.button-bg] }}{% else %}{{ node.button-bg }}{% endif %}{% endcapture %}
   {% capture bg %}{% if site.colors[node.bg] %}{{ site.colors[node.bg] }}{% else %}{{ node.bg }}{% endif %}{% endcapture %}
   {% capture fg %}{% if site.colors[node.color] %}{{ site.colors[node.color] }}{% else %}{{ node.color }}{% endif %}{% endcapture %}
   {% capture fg2 %}{% if site.colors[node.border-color] %}{{ site.colors[node.border-color] }}{% else %}{{ node.border-color }}{% endif %}{% endcapture %}
   nav .p-{{id}} { border-color: {{ bg }}; }
   #{{id}} { background-color: {{ bg }} !important; color: {{ fg }}; }
-  #{{id}} a { color: {{ fg }}; }
+  #{{id}} a { color: {{ bg }}; background-color: {{bg-btn}} }
   #{{id}} .sectiondivider { color: {{ bg }}; }
   #main #{{id}} .activity { border-color: {{ fg2 }} }
   #main #{{id}} .section-lines { border-color: {{ fg2 }} }
