@@ -1,28 +1,6 @@
 ---
+layout: default
 ---
-<!DOCTYPE html>
-<html dir="ltr" lang="en">
-<head>
-{% include head.html %}
-</head>
-<body>
-  <div id="main">
-    <nav>
-      <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="right fa fa-bars"></i></a>
-      <ul class="hide-on-med-and-down">
-      {% for node in site.posts reversed %}
-        {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-        <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
-      {% endfor %}
-      </ul>
-      <ul class="side-nav" id="mobile-demo">
-      {% for node in site.posts reversed %}
-        {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-        <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
-      {% endfor %}
-      </ul>
-    </nav>
-
 
     {% for page in site.posts reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
@@ -51,26 +29,3 @@
         </div>
       </div>
     {% endfor %}
-
-
-    <div id="footer" class="section text-white">
-      <div class="container">
-        {% capture foottext %} {% include footer.md %} {% endcapture %}
-        {{ foottext | markdownify }}
-      </div>
-    </div>
-  </div>
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-  <script src="site.js"></script>
-  <script src="snowstorm-min.js"></script>
-  <script>
-    snowStorm.usePositionFixed = true;
-    snowStorm.followMouse = false;
-    snowStorm.vMaxX = 3;
-    snowStorm.vMaxY = 1;
-  </script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/js/materialize.min.js"></script>
-  <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.5.7/slick.min.js"></script>
-</body>
-</html>

@@ -1,5 +1,4 @@
----
-
+# Development Settings
 port: 4000
 host: 0.0.0.0
 safe: false
@@ -40,6 +39,13 @@ colors:
 kramdown:
   auto_ids:  false
 
+# Sass/SCSS
 sass:
   sass_dir: stylesheets/_sass/
   style: compressed
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
