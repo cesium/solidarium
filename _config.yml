@@ -42,3 +42,4 @@ kramdown:
 
 sass:
   sass_dir: stylesheets/_sass/
+  style: compressed
