@@ -40,6 +40,13 @@ colors:
 kramdown:
   auto_ids:  false
 
+# Sass/SCSS
 sass:
   sass_dir: stylesheets/_sass/
   style: compressed
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
