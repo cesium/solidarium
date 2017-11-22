@@ -6,15 +6,10 @@ border-color: white
 fa-icon: gift
 ---
 
-<div class="section-lines section-top section-left"></div>
 {% for activity in site.data.agenda.contributions %}
   {% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}
   {% if thecycle == 'odd' %}
-  {% if activity == site.data.agenda.contributions.last %}
-  <div class="activity section-left">
-  {% else %}
-  <div class="activity section-left section-bottom">
-  {% endif %}
+  <div class="activity">
     <div class="row activity-info-wrapper valign-wrapper">
       <div class="col m3 activity-img valign">
         <img  src="img/{{ activity.image }}" alt="{{ activity.title }}">
@@ -39,11 +34,7 @@ fa-icon: gift
     </div>
   </div>
   {% else %}
-  {% if activity == site.data.agenda.contributions.last %}
-  <div class="activity section-right">
-  {% else %}
-  <div class="activity section-right section-bottom">
-  {% endif %}
+  <div class="activity">
     <div class="row activity-info-wrapper valign-wrapper">
       <div class="col m3 activity-img valign img-mobile">
         <img src="img/{{activity.image}}" alt="{{activity.title}}">
@@ -72,8 +63,3 @@ fa-icon: gift
   </div>
   {% endif %}
 {% endfor %}
-{% if thecycle == 'even' %}
-<div class="section-lines section-bottom section-left"></div>
-  {% else %}
-<div class="section-lines section-bottom section-right"></div>
-{% endif %}
