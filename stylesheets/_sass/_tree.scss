@@ -1,0 +1,36 @@
+#tree {
+	max-width: 150px;
+	display: block;
+	margin: 0 auto;
+}
+
+$colors: (
+  "red": #EA385C,
+  gold-lt: #E7B75C,
+  blue-lt: #386FB1,
+	blue-dk: #28527C,
+	gold-dk: #B28947
+);
+
+@each $name, $color in $colors {
+  .#{$name} {
+    fill: darken($color, 20%);
+		@keyframes #{$name}-flash {
+			40% { fill: darken($color, 0%);	}
+			80% { fill: darken($color, 20%); }
+		}
+		animation: .6s #{$name}-flash ease-in-out infinite;
+  }
+}
+
+$timings: (
+	g1: 0s,
+	g2: .4s,
+	g3: .8s
+);
+
+@each $timing-name, $timing in $timings {
+  .#{$timing-name} {
+		animation-delay: $timing;
+  }
+}

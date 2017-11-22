@@ -1,5 +1,5 @@
 ---
-title: "1ª Semana - 3 a 9"
+title: "Semana 3 a 9"
 bg: firstweek
 color: white
 border-color: white

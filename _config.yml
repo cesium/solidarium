@@ -42,7 +42,7 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: stylesheets/_sass/
-  style: compressed
+  style: compressed 
 
 # HTML Compression
 compress_html:

@@ -1,5 +1,5 @@
 ---
-title: "4ª Semana - 24 a 30"
+title: "Semana 24 a 30"
 bg: fourthweek
 color: white
 border-color: white

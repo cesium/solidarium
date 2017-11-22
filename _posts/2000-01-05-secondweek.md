@@ -1,5 +1,5 @@
 ---
-title: "2ª Semana - 10 a 16"
+title: "Semana 10 a 16"
 bg: secondweek
 color: white
 border-color: white
