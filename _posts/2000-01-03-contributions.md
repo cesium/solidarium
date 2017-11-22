@@ -1,16 +1,16 @@
 ---
 title: "Como contribuir"
-bg: allmonth
+bg: contributions
 color: white
 border-color: white
 fa-icon: gift
 ---
 
 <div class="section-lines section-top section-left"></div>
-{% for activity in site.data.agenda.allmonth %}
+{% for activity in site.data.agenda.contributions %}
   {% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}
   {% if thecycle == 'odd' %}
-  {% if activity == site.data.agenda.allmonth.last %}
+  {% if activity == site.data.agenda.contributions.last %}
   <div class="activity section-left">
   {% else %}
   <div class="activity section-left section-bottom">
@@ -21,12 +21,16 @@ fa-icon: gift
       </div>
       <div class="col m9 activity-info">
         <h3 class="activity-title"> {{ activity.title }} </h3>
+        {% if activity.time %}
         <div class="col s12 activity-time">
           <i class="fa fa-clock-o"></i> <span> {{ activity.time }} </span>
         </div>
+        {% endif %}
+        {% if activity.place %}
         <div class="col s12 activity-place">
           <i class="fa fa-map-marker"></i> <span> {{ activity.place }} </span>
         </div>
+        {% endif %}
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
         {% if activity.typeform %}
         <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.typeform }}" target="blank">Inscrição</a>
@@ -35,7 +39,7 @@ fa-icon: gift
     </div>
   </div>
   {% else %}
-  {% if activity == site.data.agenda.allmonth.last %}
+  {% if activity == site.data.agenda.contributions.last %}
   <div class="activity section-right">
   {% else %}
   <div class="activity section-right section-bottom">
@@ -46,12 +50,16 @@ fa-icon: gift
       </div>
       <div class="col m9 activity-info">
         <h3 class="activity-title"> {{ activity.title }} </h3>
+        {% if activity.time %}
         <div class="col s12 activity-time">
           <i class="fa fa-clock-o"></i> <span> {{ activity.time }} </span>
         </div>
+        {% endif %}
+        {% if activity.place %}
         <div class="col s12 activity-place">
           <i class="fa fa-map-marker"></i> <span> {{ activity.place }} </span>
         </div>
+        {% endif %}
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
         {% if activity.typeform %}
         <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.typeform }}" target="blank">Inscrição</a>

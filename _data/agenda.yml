@@ -1,9 +1,11 @@
-allmonth:
-  - title: DI Goes Retro
-    time: 9h-18h
-    place: Átrio do DI
+contributions:
+  - title: Árvores de Natal
     image: retro.png
-    text: Durante esta semana o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrares as raízes da computação através de um museu aberto!
+    text: Vais encontrar diversas árvores de natal dispersas em posições estratégicas da Universidade onde poderás deixar as tuas oferendas.
+
+  - title: Contribuições
+    image: retro.png
+    text: Podes contribuir com bens alimentares, peças de vestuário ou brinquedos, fica ao teu critério!  
 
 firstweek:
   - title: Título da atividade 1

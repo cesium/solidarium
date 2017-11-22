@@ -24,17 +24,17 @@ google_analytics_key: UA-67237593-6 ## put YOUR key here to enable tracking! (bl
 
 ### template colors, used site-wide via css ###
 colors:
-  white:        '#f0f0f0'
-  grey :        '#696969'
-  yellow:       '#fef99c'
-  intro:        '#70161a'
-  description:  '#8b161c'
-  allmonth:     '#93281d'
-  firstweek:    '#9b3f1f'
-  secondweek:   '#9b511f'
-  thirdweek:    '#96640e'
-  fourthweek:   '#9c731a'
-  contacts:     '#424242'
+  white:          '#f0f0f0'
+  grey :          '#696969'
+  yellow:         '#fef99c'
+  intro:          '#70161a'
+  description:    '#8b161c'
+  contributions:  '#93281d'
+  firstweek:      '#9b3f1f'
+  secondweek:     '#9b511f'
+  thirdweek:      '#96640e'
+  fourthweek:     '#9c731a'
+  contacts:       '#424242'
 
 kramdown:
   auto_ids:  false
