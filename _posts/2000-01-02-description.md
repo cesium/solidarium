@@ -16,7 +16,9 @@ icon: sticker.png
   <div class="col s12 feature">
     <div class="description-text">
       <p class="text">
-      A iniciativa consiste na colocação de árvores de Natal em posições estratégicas da Universidade, onde poderão ser encontrados cabazes para a recolha de bens alimentares, peças de vestuário e brinquedos. Todos os Núcleos, Associações e Secções participantes na iniciativa iriam durante o mês de Dezembro cobrar estes bens em troca da participação nas suas atividades, ou num grupo de atividades específico, e iriam posteriormente colocar as oferendas nos cabazes. -> tem de ser alterado.
+      O Dezembro Solidário é um projeto de cariz social, que tem como objetivo trazer uma maior celebração da época natalícia à Universidade do Minho através de incentivos à união da comunidade académica, espalhando decorações e unindo as nossas associações de estudantes num espírito de solidariedade e partilha, já que no final do mês todos os bens recolhidos durante a atividade serão oferecidos a uma instituição social de ajuda aos mais necessitados.
+      Durante esta iniciativa, todas as atividades participantes serão identificadas pelo símbolo do Dezembro Solidário e serão partilhadas aqui no website. Para além disso, todos os alunos que contribuam receberão um autocolante alusivo à iniciativa.
+
       </p>
    </div>
   </div>
