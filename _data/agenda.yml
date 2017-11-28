@@ -8,61 +8,65 @@ contributions:
     text: Ainda de modo a criar um espírito de partilha e de solidariedade entre todos durante este mês, todos os Núcleos, Associações e Secções participantes nesta iniciativa irão também cobrar como entrada para participação nas suas atividades ou num grupo de atividades específico bens alimentares, peças de vestuário e brinquedos que irão posteriormente ser colocados nos cabazes para serem entregues às instituições.
         
 firstweek:
-  - title: Título da atividade 1
-    date: 4 de Dezembro
-    time: 16h-17h
-    place: CP2 1.01
+  - title: Torneio de FIFA17
+    date: 1 de Dezembro 
+    place: CeSIUM
     image: seguranca.png
-    typeform: https://cesium.typeform.com/to/HKIJg7
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.'
-    speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
+    typeform: http://cesium.di.uminho.pt/activities/17
+    text: TBA
 
-  - title: Título da atividade 2
-    date: 7 de Dezembro
-    time: 17h-19h
-    place: CP2 2.12
-    image: infotricks.png
-    typeform: https://cesium.typeform.com/to/xrourN
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.
-    speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
+  - title: Palestra MOLDEX 3D
+    date: 6 de Dezembro
+    time: 14h30
+    place: B1.10 - Azurém
+    image: seguranca.png
+    typeform: http://cesium.di.uminho.pt/activities/17
+    text: MOLDEX3D é um produto desenvolvido pela Coretech System Co. que incorpora as mais avançadas tecnologias de análise. Com uma interface amigável, permite até a um não especialista realizar estudos e encontrar soluções para potenciais problemas na peça e/ou projeto do molde. O MOLDEX3D dispõe de um conjunto completo de ferramentas de simulação para produtos plásticos injetados com uma tecnologia baseada nas malhas sólidas híbridas e no método de volumes finitos de alto desempenho.
+
+  - title: Workshop Vue.js
+    date: 6 de Dezembro
+    time: 14h-16h
+    place: A1 - Departamento de Informática
+    image: seguranca.png
+    typeform: http://www.cesium.di.uminho.pt/activities/11
+    text: TBA
+    speaker: <a target="_blank" href="https://github.com/fntneves">Francisco Neves</a>
+
+  - title: Hour of Code
+    date: 6 de Dezembro
+    time: TBA
+    place: A2 - Departamento de Informática
+    image: seguranca.png
+    typeform: http://cesium.di.uminho.pt/activities/17
+    text: TBA
 
 secondweek:
-  - title: Título da atividade 3
-    date: 4 de Dezembro
-    time: 16h-17h
-    place: CP2 1.01
+  - title: English Night
+    date: 13 de Dezembro
+    time: TBA
+    place: TBA
     image: seguranca.png
     typeform: https://cesium.typeform.com/to/HKIJg7
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.'
-    speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
+    text: Saber falar, escrever e interpretar bem o inglês é uma capacidade cada vez mais necessária, mas nem todos o conseguem fazer. Para resolver esse problema, o CeSIUM propõe uma noite onde apenas se pode falar inglês, onde há jogos, comida, BEBIDA e muito convívio. Podes assim aperfeiçoar o teu inglês sem teres de fazer testes ou algo aborrecido como isso. Acima de tudo, o importante é divertires-te. Aparece!
+    speaker: <a target="_blank" href="https://github.com/martinhoaragao">Martinho Aragão</a>
 
-  - title: Título da atividade 4
-    date: 7 de Dezembro
-    time: 17h-19h
-    place: CP2 2.12
-    image: infotricks.png
-    typeform: https://cesium.typeform.com/to/xrourN
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.
-    speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
+  - title: Hour of Code
+    date: 6 de Dezembro
+    time: TBA
+    place: A2 - Departamento de Informática
+    image: seguranca.png
+    typeform: http://cesium.di.uminho.pt/activities/17
+    text: TBA
 
 thirdweek:
-  - title: Título da atividade 5
-    date: 4 de Dezembro
-    time: 16h-17h
-    place: CP2 1.01
+  - title: Workshop Vue.js
+    date: 6 de Dezembro
+    time: 14h-16h
+    place: A1 - Departamento de Informática
     image: seguranca.png
-    typeform: https://cesium.typeform.com/to/HKIJg7
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.'
-    speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
-
-  - title: Título da atividade 6
-    date: 7 de Dezembro
-    time: 17h-19h
-    place: CP2 2.12
-    image: infotricks.png
-    typeform: https://cesium.typeform.com/to/xrourN
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.
-    speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
+    typeform: http://www.cesium.di.uminho.pt/activities/11
+    text: No próximo dia 22 de novembro, irá decorrer uma palestra sobre Vue.js, para todos aqueles que pretendem saber como usufruir desta framework de JavaScript para construir user interfaces. A palestra irá decorrer no A2 do CPI, pelas 16h, e estará a cargo de Francisco Neves, tendo prevista uma duração de 2h. 
+    speaker: <a target="_blank" href="https://github.com/fntneves">Francisco Neves</a>
 
 fourthweek:
   - title: Título da atividade 7
