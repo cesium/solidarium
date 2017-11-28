@@ -23,12 +23,21 @@ fa-icon: battery-quarter
       </div>
       <div class="col m9 activity-info">
         <h3 class="activity-title"> {{ activity.title }} </h3>
+        {% if activity.date %}
+        <div class="col s12 activity-date">
+          <i class="fa fa-calendar"></i> <span> {{ activity.date }} </span>
+        </div>
+        {% endif %}
+        {% if activity.time %}
         <div class="col s12 activity-time">
           <i class="fa fa-clock-o"></i> <span> {{ activity.time }} </span>
         </div>
+        {% endif %}
+        {% if activity.place %}
         <div class="col s12 activity-place">
           <i class="fa fa-map-marker"></i> <span> {{ activity.place }} </span>
         </div>
+        {% endif %}
         {% if activity.speaker %}
         <div class="col s12 activity-speaker">
           <i class="fa fa-user"></i> <span> {{ activity.speaker }} </span>
@@ -53,12 +62,21 @@ fa-icon: battery-quarter
       </div>
       <div class="col m9 activity-info">
         <h3 class="activity-title"> {{ activity.title }} </h3>
+        {% if activity.date %}
+        <div class="col s12 activity-date">
+          <i class="fa fa-calendar"></i> <span> {{ activity.date }} </span>
+        </div>
+        {% endif %}
+        {% if activity.time %}
         <div class="col s12 activity-time">
           <i class="fa fa-clock-o"></i> <span> {{ activity.time }} </span>
         </div>
+        {% endif %}
+        {% if activity.place %}
         <div class="col s12 activity-place">
           <i class="fa fa-map-marker"></i> <span> {{ activity.place }} </span>
         </div>
+        {% endif %}
         {% if activity.speaker %}
         <div class="col s12 activity-speaker">
           <i class="fa fa-user"></i> <span> {{ activity.speaker }} </span>
