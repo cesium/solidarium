@@ -11,41 +11,40 @@ firstweek:
   - title: Torneio de FIFA17
     date: 1 de Dezembro 
     place: CeSIUM
-    image: seguranca.png
+    image: activities/fifa.jpg
     typeform: http://cesium.di.uminho.pt/activities/17
-    text: TBA
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.
 
   - title: Palestra MOLDEX 3D
     date: 6 de Dezembro
     time: 14h30
     place: B1.10 - Azurém
-    image: seguranca.png
-    typeform: http://cesium.di.uminho.pt/activities/17
+    image: activities/moldex.jpg
     text: MOLDEX3D é um produto desenvolvido pela Coretech System Co. que incorpora as mais avançadas tecnologias de análise. Com uma interface amigável, permite até a um não especialista realizar estudos e encontrar soluções para potenciais problemas na peça e/ou projeto do molde. O MOLDEX3D dispõe de um conjunto completo de ferramentas de simulação para produtos plásticos injetados com uma tecnologia baseada nas malhas sólidas híbridas e no método de volumes finitos de alto desempenho.
 
   - title: Workshop Vue.js
     date: 6 de Dezembro
     time: 14h-16h
     place: A1 - Departamento de Informática
-    image: seguranca.png
+    image: activities/vue.png
     typeform: http://www.cesium.di.uminho.pt/activities/11
-    text: TBA
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.
     speaker: <a target="_blank" href="https://github.com/fntneves">Francisco Neves</a>
 
   - title: Hour of Code
     date: 6 de Dezembro
     time: TBA
     place: A2 - Departamento de Informática
-    image: seguranca.png
+    image: activities/cesium.png
     typeform: http://cesium.di.uminho.pt/activities/17
-    text: TBA
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.
 
 secondweek:
   - title: English Night
     date: 13 de Dezembro
     time: TBA
     place: TBA
-    image: seguranca.png
+    image: activities/cesium.png
     typeform: https://cesium.typeform.com/to/HKIJg7
     text: Saber falar, escrever e interpretar bem o inglês é uma capacidade cada vez mais necessária, mas nem todos o conseguem fazer. Para resolver esse problema, o CeSIUM propõe uma noite onde apenas se pode falar inglês, onde há jogos, comida, BEBIDA e muito convívio. Podes assim aperfeiçoar o teu inglês sem teres de fazer testes ou algo aborrecido como isso. Acima de tudo, o importante é divertires-te. Aparece!
     speaker: <a target="_blank" href="https://github.com/martinhoaragao">Martinho Aragão</a>
@@ -56,7 +55,7 @@ secondweek:
     place: A2 - Departamento de Informática
     image: seguranca.png
     typeform: http://cesium.di.uminho.pt/activities/17
-    text: TBA
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.
 
 thirdweek:
   - title: Workshop Vue.js
