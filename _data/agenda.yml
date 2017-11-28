@@ -49,25 +49,7 @@ secondweek:
     text: Saber falar, escrever e interpretar bem o inglês é uma capacidade cada vez mais necessária, mas nem todos o conseguem fazer. Para resolver esse problema, o CeSIUM propõe uma noite onde apenas se pode falar inglês, onde há jogos, comida, BEBIDA e muito convívio. Podes assim aperfeiçoar o teu inglês sem teres de fazer testes ou algo aborrecido como isso. Acima de tudo, o importante é divertires-te. Aparece!
     speaker: <a target="_blank" href="https://github.com/martinhoaragao">Martinho Aragão</a>
 
-  - title: Hour of Code
-    date: 6 de Dezembro
-    time: TBA
-    place: A2 - Departamento de Informática
-    image: seguranca.png
-    typeform: http://cesium.di.uminho.pt/activities/17
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.
-
 thirdweek:
-  - title: Workshop Vue.js
-    date: 6 de Dezembro
-    time: 14h-16h
-    place: A1 - Departamento de Informática
-    image: seguranca.png
-    typeform: http://www.cesium.di.uminho.pt/activities/11
-    text: No próximo dia 22 de novembro, irá decorrer uma palestra sobre Vue.js, para todos aqueles que pretendem saber como usufruir desta framework de JavaScript para construir user interfaces. A palestra irá decorrer no A2 do CPI, pelas 16h, e estará a cargo de Francisco Neves, tendo prevista uma duração de 2h. 
-    speaker: <a target="_blank" href="https://github.com/fntneves">Francisco Neves</a>
-
-fourthweek:
   - title: Título da atividade 7
     date: 4 de Dezembro
     time: 16h-17h
@@ -75,8 +57,9 @@ fourthweek:
     image: seguranca.png
     typeform: https://cesium.typeform.com/to/HKIJg7
     text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.'
-    speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
+    speaker: <a target="_blank" href="">Orador 1</a>, <a target="_blank" href="">Orador 2</a>
 
+fourthweek:
   - title: Título da atividade 8
     date: 7 de Dezembro
     time: 17h-19h
@@ -84,5 +67,5 @@ fourthweek:
     image: infotricks.png
     typeform: https://cesium.typeform.com/to/xrourN
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.
-    speaker: <a target="_blank" href="https://github.com/p3rsephone">Orador 1</a>, <a target="_blank" href="https://github.com/ZePedroResende">Orador 2</a>
+    speaker: <a target="_blank" href="a">Orador 1</a>, <a target="_blank" href="a">Orador 2</a>
 
