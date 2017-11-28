@@ -5,7 +5,7 @@ color: white
 border-color: white
 button-bg: white
 next-bg: secondweek
-fa-icon: battery-full
+icon: 1.png
 ---
 
 <div class="section-lines section-top section-left"></div>

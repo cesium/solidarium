@@ -5,7 +5,7 @@ color: white
 border-color: white
 button-bg: white
 next-bg: contacts
-fa-icon: battery-quarter
+icon: 4.png
 ---
 
 <div class="section-lines section-top section-left"></div>

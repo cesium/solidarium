@@ -5,7 +5,7 @@ color: white
 border-color: white
 button-bg: white
 next-bg: thirdweek
-fa-icon: battery-three-quarters
+icon: 2.png
 ---
 
 <div class="section-lines section-top section-left"></div>
