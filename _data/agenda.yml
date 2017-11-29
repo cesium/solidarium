@@ -54,6 +54,14 @@ firstweek:
     speaker: <a target="_blank" href="https://www.linkedin.com/in/trigomargarida/">Ana Trigo</a> <a target="_blank" href="https://www.linkedin.com/in/joaocunhagalvao/">João Galvão</a> <a target="_blank" href="https://www.linkedin.com/in/emanuel-mota-7371613/">Emanuel Mota</a> 
 
 secondweek:
+  - title: Jantar de 15º aniversário do NEMUM
+    date: 12 de Dezembro
+    time: 21h
+    place: Restaurante Panorâmico da Universidade do Minho - Gualtar
+    image: org/nemum.png
+    org: <a target="_blank" href="https://www.facebook.com/NEMUM">NEMUM</a>
+    text: O NEMUM celebra o seu 15º aniversário em 2017 e realizará um jantar aberto à comunidade académica para comemorar. Ao espírito de celebração de aniversário, associa-se o espírito natalício e de solidariedade. Os participantes do jantar são convidados a trazer bens alimentares, peças de vestuário e brinquedos e a colocá-los na árvore de Natal que estará no local para o efeito. 
+
   - title: English Night
     date: 13 de Dezembro
     time: TBA
