@@ -38,6 +38,15 @@ firstweek:
     image: activities/cesium.png
     typeform: http://cesium.di.uminho.pt/activities/17
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.
+  
+  - title: Talk About
+    date: 6 de Dezembro
+    time: 16h
+    place: TBA
+    image: activities/talkabout.png
+    typeform: https://goo.gl/forms/cCv4SAmWwmWr6b3s1
+    text: TALK ABOUT terá a sua primeira edição com o tema "Blockchain for FinTech and for Industry Applications" , com o objetivo de promover a troca de conhecimentos entre o público e os oradores sobre novas tecnologias disjuntivas.
+    speaker: <a target="_blank" href="https://www.linkedin.com/in/trigomargarida/">Ana Trigo</a> <a target="_blank" href="https://www.linkedin.com/in/joaocunhagalvao/">João Galvão</a> <a target="_blank" href="https://www.linkedin.com/in/emanuel-mota-7371613/">Emanuel Mota</a> 
 
 secondweek:
   - title: English Night
