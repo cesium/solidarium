@@ -19,7 +19,9 @@ icon: 4.png
   {% endif %}
     <div class="row activity-info-wrapper valign-wrapper">
       <div class="col m3 activity-img valign">
-        <img  src="img/{{activity.image}}" alt="{{ activity.title }}">
+        <a href="img/{{activity.image}}" data-lightbox="{{activity.image}}" data-title="{{ activity.title }}"> 
+          <img  src="img/{{activity.image}}" alt="{{ activity.title }}"> 
+        </a>
       </div>
       <div class="col m9 activity-info">
         <h3 class="activity-title"> {{ activity.title }} </h3>
@@ -63,7 +65,9 @@ icon: 4.png
   {% endif %}
     <div class="row activity-info-wrapper valign-wrapper">
       <div class="col m3 activity-img valign img-mobile">
-        <img src="img/{{activity.image}}" alt="{{activity.title}}">
+        <a href="img/{{activity.image}}" data-lightbox="{{activity.image}}-mobile" data-title="{{ activity.title }}"> 
+          <img  src="img/{{activity.image}}" alt="{{ activity.title }}">
+        </a>
       </div>
       <div class="col m9 activity-info">
         <h3 class="activity-title"> {{ activity.title }} </h3>
@@ -98,7 +102,9 @@ icon: 4.png
         {% endif %}
       </div>
       <div class="col m3 activity-img valign img-desktop">
-        <img src="img/{{activity.image}}" alt="{{activity.title}}">
+        <a href="img/{{activity.image}}" data-lightbox="{{activity.image}}" data-title="{{ activity.title }}"> 
+          <img  src="img/{{activity.image}}" alt="{{ activity.title }}">
+        </a>
       </div>
     </div>
   </div>
