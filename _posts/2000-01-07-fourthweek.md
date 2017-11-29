@@ -43,6 +43,11 @@ icon: 4.png
           <i class="fa fa-user"></i> <span> {{ activity.speaker }} </span>
         </div>
         {% endif %}
+        {% if activity.org %}
+        <div class="col s12 activity-org">
+          <i class="fa fa-users"></i> <span> {{ activity.org }} </span>
+        </div>
+        {% endif %}
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
         {% if activity.typeform %}
         <a class="waves-effect waves-light btn" href="{{ activity.typeform }}" target="blank">Inscrição</a>
@@ -80,6 +85,11 @@ icon: 4.png
         {% if activity.speaker %}
         <div class="col s12 activity-speaker">
           <i class="fa fa-user"></i> <span> {{ activity.speaker }} </span>
+        </div>
+        {% endif %}
+        {% if activity.org %}
+        <div class="col s12 activity-org">
+          <i class="fa fa-users"></i> <span> {{ activity.org }} </span>
         </div>
         {% endif %}
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
