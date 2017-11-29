@@ -3,7 +3,7 @@ title: "Como contribuir"
 bg: contributions
 color: white
 border-color: white
-fa-icon: gift
+icon: contribuir.png
 ---
 
 {% for activity in site.data.agenda.contributions %}
