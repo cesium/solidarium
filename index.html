@@ -4,9 +4,11 @@ layout: default
 
 {% for page in site.posts reversed %}
   {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+  {% if page.button-bg %}
   <ul class="lightrope">
     <li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li>
   </ul>
+  {% endif %}
   <div id="{{id}}" class="section p-{{id}}">
     {% if page.icon %}
     <div class="subtlecircle sectiondivider">
