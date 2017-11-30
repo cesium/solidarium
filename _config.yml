@@ -28,12 +28,12 @@ colors:
   grey :          '#696969'
   yellow:         '#fef99c'
   intro:          '#70161a'
-  description:    '#8b161c'
-  contributions:  '#93281d'
-  firstweek:      '#9b3f1f'
-  secondweek:     '#9b511f'
-  thirdweek:      '#96640e'
-  fourthweek:     '#9c731a'
+  description:    '#891820'
+  contributions:  '#9c1f28'
+  firstweek:      '#3e7846'
+  secondweek:     '#9c1f28'
+  thirdweek:      '#3e7846'
+  fourthweek:     '#9c1f28'
   contacts:       '#424242'
 
 kramdown:
