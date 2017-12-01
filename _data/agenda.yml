@@ -1,10 +1,10 @@
 contributions:
   - title: Árvores de Natal
-    image: christmas-tree.ico
+    logo-image: christmas-tree.ico
     text: De modo a envolver e apelar à participação de toda a comunidade académica, desde alunos, funcionários, professores a possíveis visitantes para ajudar quem mais precisa, por toda a Universidade do Minho, poderás encontrar algumas árvores de natal e muitas decorações e enfeites, onde estarão colocados cabazes para recolha de bens, porque por mais pequena que seja a nossa contribuição, todos juntos faremos a diferença.
 
   - title: Contribuições
-    image: gift.png
+    logo-image: gift.png
     text: Ainda de modo a criar um espírito de partilha e de solidariedade entre todos durante este mês, todos os Núcleos, Associações e Secções participantes nesta iniciativa irão também cobrar como entrada para participação nas suas atividades ou num grupo de atividades específico bens alimentares, peças de vestuário e brinquedos que irão posteriormente ser colocados nos cabazes para serem entregues às instituições.
         
 firstweek:
@@ -66,7 +66,7 @@ secondweek:
     date: 12 de Dezembro
     time: 21h
     place: Restaurante Panorâmico da Universidade do Minho - Gualtar
-    image: org/nemum.png
+    logo-image: org/nemum.png
     org: <a target="_blank" href="https://www.facebook.com/NEMUM">NEMUM</a>
     text: O NEMUM celebra o seu 15º aniversário em 2017 e realizará um jantar aberto à comunidade académica para comemorar. Ao espírito de celebração de aniversário, associa-se o espírito natalício e de solidariedade. Os participantes do jantar são convidados a trazer bens alimentares, peças de vestuário e brinquedos e a colocá-los na árvore de Natal que estará no local para o efeito. 
 
@@ -74,7 +74,7 @@ secondweek:
     date: 13 de Dezembro
     time: 24h
     place: Universidade do Minho
-    image: activities/cesium.png
+    logo-image: org/cesium.png
     org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
     typeform: https://cesium.typeform.com/to/HKIJg7
     text: Saber falar, escrever e interpretar bem o inglês é uma capacidade cada vez mais necessária, mas nem todos o conseguem fazer. Para resolver esse problema, o CeSIUM propõe uma noite onde apenas se pode falar inglês, onde há jogos, comida, BEBIDA e muito convívio. Podes assim aperfeiçoar o teu inglês sem teres de fazer testes ou algo aborrecido como isso. Acima de tudo, o importante é divertires-te. Aparece!
@@ -84,7 +84,7 @@ secondweek:
     date: 16 de Dezembro
     time: 10h
     place: TBA
-    image: org/ADAEUM.png
+    logo-image: org/ADAEUM.png
     org: <a target="_blank" href="https://www.facebook.com/debatesuminho/">ADAUM</a>
     text: Debate especial entre gerações de sócios da ADAUM, todos estão convidados a aparecer e a trazer uma oferenda natalícia para os mais necessitados.
 
@@ -101,6 +101,6 @@ thirdweek:
 fourthweek:
   - title: Dia de Natal
     date: 25 de Dezembro
-    image: infotricks.png
+    logo-image: infotricks.png
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.
 
