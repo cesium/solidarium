@@ -18,11 +18,17 @@ icon: 2.png
   <div class="activity section-left section-bottom">
   {% endif %}
     <div class="row activity-info-wrapper valign-wrapper">
+      {% if activity.image %}
       <div class="col m3 activity-img valign">
         <a href="img/{{activity.image}}" data-lightbox="{{activity.image}}" data-title="{{ activity.title }}"> 
           <img  src="img/{{activity.image}}" alt="{{ activity.title }}"> 
         </a>
       </div>
+      {% else %}
+      <div class="col m3 logo-img valign">
+        <img  src="img/{{activity.logo-image}}" alt="{{ activity.title }}"> 
+      </div>
+      {% endif %}
       <div class="col m9 activity-info">
         <h3 class="activity-title"> {{ activity.title }} </h3>
         {% if activity.date %}
@@ -64,11 +70,17 @@ icon: 2.png
   <div class="activity section-right section-bottom">
   {% endif %}
     <div class="row activity-info-wrapper valign-wrapper">
+      {% if activity.image %}
       <div class="col m3 activity-img valign img-mobile">
         <a href="img/{{activity.image}}" data-lightbox="{{activity.image}}-mobile" data-title="{{ activity.title }}"> 
           <img  src="img/{{activity.image}}" alt="{{ activity.title }}">
         </a>
       </div>
+      {% else %}
+      <div class="col m3 logo-img valign img-mobile">
+        <img  src="img/{{activity.logo-image}}" alt="{{ activity.title }}">
+      </div>
+      {% endif %}
       <div class="col m9 activity-info">
         <h3 class="activity-title"> {{ activity.title }} </h3>
         {% if activity.date %}
@@ -101,11 +113,17 @@ icon: 2.png
         <a class="waves-effect waves-light btn" href="{{ activity.typeform }}" target="blank">Inscrição</a>
         {% endif %}
       </div>
+      {% if activity.image %}
       <div class="col m3 activity-img valign img-desktop">
         <a href="img/{{activity.image}}" data-lightbox="{{activity.image}}" data-title="{{ activity.title }}"> 
           <img  src="img/{{activity.image}}" alt="{{ activity.title }}">
         </a>
       </div>
+      {% else %}
+      <div class="col m3 logo-img valign img-desktop">
+        <img  src="img/{{activity.logo-image}}" alt="{{ activity.title }}">
+      </div>
+      {% endif %}
     </div>
   </div>
   {% endif %}

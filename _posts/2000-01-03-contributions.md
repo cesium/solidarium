@@ -11,8 +11,8 @@ icon: contribuir.png
   {% if thecycle == 'odd' %}
   <div class="activity">
     <div class="row activity-info-wrapper valign-wrapper">
-      <div class="col m3 activity-img valign">
-        <img  src="img/{{ activity.image }}" alt="{{ activity.title }}">
+      <div class="col m3 logo-img valign">
+        <img  src="img/{{ activity.logo-image }}" alt="{{ activity.title }}">
       </div>
       <div class="col m9 activity-info">
         <h3 class="activity-title"> {{ activity.title }} </h3>
@@ -36,8 +36,8 @@ icon: contribuir.png
   {% else %}
   <div class="activity">
     <div class="row activity-info-wrapper valign-wrapper">
-      <div class="col m3 activity-img valign img-mobile">
-        <img src="img/{{activity.image}}" alt="{{activity.title}}">
+      <div class="col m3 logo-img valign img-mobile">
+        <img src="img/{{activity.logo-image}}" alt="{{activity.title}}">
       </div>
       <div class="col m9 activity-info">
         <h3 class="activity-title"> {{ activity.title }} </h3>
@@ -56,8 +56,8 @@ icon: contribuir.png
         <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.typeform }}" target="blank">Inscrição</a>
         {% endif %}
       </div>
-      <div class="col m3 activity-img valign img-desktop">
-        <img src="img/{{activity.image}}" alt="{{activity.title}}">
+      <div class="col m3 logo-img valign img-desktop">
+        <img src="img/{{activity.logo-image}}" alt="{{activity.title}}">
       </div>
     </div>
   </div>
