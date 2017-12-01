@@ -34,7 +34,7 @@ colors:
   secondweek:     '#9c1f28'
   thirdweek:      '#3e7846'
   fourthweek:     '#9c1f28'
-  contacts:       '#424242'
+  contacts:       '#70161a'
 
 kramdown:
   auto_ids:  false
