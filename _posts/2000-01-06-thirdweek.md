@@ -8,5 +8,4 @@ next-bg: fourthweek
 icon: 3.png
 ---
 
-![dezembro_solidario](img/logo.png)
-### Dezembro 2017 @ Universidade do Minho
+![dezembro_solidario](img/feriasnatal.png)
