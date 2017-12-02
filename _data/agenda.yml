@@ -48,7 +48,7 @@ firstweek:
     place: A2 - Departamento de Informática
     image: activities/hourofcode.png
     org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
-    typeform: http://cesium.di.uminho.pt/activities/17
+    typeform: http://www.cesium.di.uminho.pt/activities/18
     text: A Hour of Code é uma hora dedicada a aprender programação, e é aberta a todo o público, não sendo preciso qualquer conhecimento prévio de programação para participar. Assim, oferecemos-te uma palestra introdutória de programação em Javascript, que irá culminar com o desenvolvimento do famosíssimo jogo Flappy Birds! Vem jogar connosco! 
   
   - title: Talk About
