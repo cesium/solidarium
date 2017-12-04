@@ -32,16 +32,6 @@ firstweek:
     org: <a target="_blank" href="https://www.facebook.com/neep.uminho/">NEEP</a>
     text: MOLDEX3D é um produto desenvolvido pela Coretech System Co. que incorpora as mais avançadas tecnologias de análise. Com uma interface amigável, permite até a um não especialista realizar estudos e encontrar soluções para potenciais problemas na peça e/ou projeto do molde. O MOLDEX3D dispõe de um conjunto completo de ferramentas de simulação para produtos plásticos injetados com uma tecnologia baseada nas malhas sólidas híbridas e no método de volumes finitos de alto desempenho.
 
-  - title: Workshop Vue.js
-    date: 6 de Dezembro
-    time: 14h
-    place: A2 - Departamento de Informática
-    image: activities/vue.png
-    org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
-    typeform: http://www.cesium.di.uminho.pt/activities/11
-    text: Este workshop ensina-te a utilizar o Vue.Js, uma framework de JavaScript para construir user interfaces, equiparável a React mas com uma curva de aprendizagem muito inferior e utilizada em websites como laravel.com e gitlab.com . Para além disso, o código resultante é de fácil leitura e a documentação é perfeita! Por isso se queres começar a dominar esta  ferramenta que te ajudará no futuro, participa!
-    speaker: <a target="_blank" href="https://github.com/fntneves">Francisco Neves</a>
-
   - title: Hour of Code
     date: 6 de Dezembro
     time: 17h
@@ -69,6 +59,16 @@ secondweek:
     logo-image: org/nemum.png
     org: <a target="_blank" href="https://www.facebook.com/NEMUM">NEMUM</a>
     text: O NEMUM celebra o seu 15º aniversário em 2017 e realizará um jantar aberto à comunidade académica para comemorar. Ao espírito de celebração de aniversário, associa-se o espírito natalício e de solidariedade. Os participantes do jantar são convidados a trazer bens alimentares, peças de vestuário e brinquedos e a colocá-los na árvore de Natal que estará no local para o efeito. 
+
+  - title: Workshop Vue.js
+    date: 13 de Dezembro
+    time: 14h
+    place: 0.05 - Departamento de Informática
+    image: activities/vue.png
+    org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
+    typeform: http://www.cesium.di.uminho.pt/activities/11
+    text: Este workshop ensina-te a utilizar o Vue.Js, uma framework de JavaScript para construir user interfaces, equiparável a React mas com uma curva de aprendizagem muito inferior e utilizada em websites como laravel.com e gitlab.com . Para além disso, o código resultante é de fácil leitura e a documentação é perfeita! Por isso se queres começar a dominar esta  ferramenta que te ajudará no futuro, participa!
+    speaker: <a target="_blank" href="https://github.com/fntneves">Francisco Neves</a>
 
   - title: English Night
     date: 13 de Dezembro
