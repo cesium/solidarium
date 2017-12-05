@@ -1,11 +1,3 @@
-- title: CeSIUM
-  logo-image: cesium.png
-  site: http://cesium.di.uminho.pt/
-  full-width: true
-- title:
-  logo-image: aiesec.png
-  site: http://aiesec.pt//
-  full-width: true
 - title:
   logo-image: NAMecUM.png
   site: https://www.facebook.com/NAMecUM/
@@ -47,5 +39,5 @@
   site: https://www.facebook.com/elsauminho/
   full-width: true
 - title:
-  logo-image:
-  site: 
+  logo-image: sasum.png
+  site: https://www.sas.uminho.pt/
