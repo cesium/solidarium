@@ -23,11 +23,68 @@
         text-align: center
 
   #contacts
-    .apoio
-      display: block
+    .login-img
       margin: auto
-    h2,h3
-      padding: 50px
+      display: block
+    padding-bottom: 50px
+    .fa-users
+      font-size: 110px
+    .contacts
+      .organiser-logo
+        margin: 0 auto
+        display: block
+        width: 60%
+        svg path
+          fill: #EAEAEA
+      .SocialBox
+        font-size: 30px
+        margin-bottom: 0px
+        display: flex
+        display: -webkit-flex
+        flex-direction: row
+        -webkit-flex-direction: row
+        justify-content: center
+        -webkit-justify-content: center
+        align-items: flex-start
+        div
+          margin: 5px
+        a
+          color: #FAFAFA
+          margin: 10px
+          &:hover, &:focus
+            color: #EB7956
+            margin: 10px
+    .slick-slider
+      .slick-track
+        display: flex
+        align-items: center
+      .slick-dots li button:before
+        color: #EAEAEA
+      .slick-prev
+        z-index: 5
+        left: 40px
+      .slick-next
+        z-index: 5
+        right: 40px
+      button:hover
+        border: 0px
+      .partner
+        display: block
+        &:hover, &:focus
+          outline: 0px none
+        img
+          max-height: 180px
+          max-width: 350px !important
+          margin: 0 auto
+        &.full-width img
+          width: 100%
+        a
+          background-color: transparent !important
+          color: #ffffff !important
+        a:visited, a:link
+          text-decoration: none
+
+  #supporters
     padding-bottom: 50px
     .fa-users
       font-size: 110px
@@ -84,6 +141,7 @@
           color: #ffffff !important
         a:visited, a:link
           text-decoration: none
+
 
   .activity
     padding: 50px
