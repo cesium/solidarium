@@ -1,15 +1,15 @@
-# - title: CeSIUM
-#   logo-image: cesium.png
-#   site: http://cesium.di.uminho.pt/
-#   full-width: true
-# - title:
-#   logo-image: polimeros.png
-#   site: https://www.facebook.com/neep.uminho/
-#   full-width: true
-# - title:
-#   logo-image: elsa.png
-#   site: https://www.facebook.com/elsauminho/
-#   full-width: true
+- title: CeSIUM
+  logo-image: cesium.png
+  site: http://cesium.di.uminho.pt/
+  full-width: true
+- title:
+  logo-image: polimeros.png
+  site: https://www.facebook.com/neep.uminho/
+  full-width: true
+- title:
+  logo-image: elsa.png
+  site: https://www.facebook.com/elsauminho/
+  full-width: true
 - title:
   logo-image: nemum.png
   site: https://www.facebook.com/NEMUM
