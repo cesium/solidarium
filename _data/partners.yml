@@ -14,3 +14,27 @@
   logo-image: neebum.png
   site: https://www.facebook.com/Neebum-121385298045015/
   full-width: true
+- title:
+  logo-image: aaum.png
+  site: http://www.aaum.pt/
+  full-width: true
+- title:
+  logo-image: aepum.png
+  site: http://www.aepum.pt/
+  full-width: true
+- title:
+  logo-image: naecum.png
+  site: https://www.facebook.com/NAECUM/
+  full-width: true
+- title:
+  logo-image: neaum.png
+  site: #//TODO: adicionar website
+  full-width: true
+- title:
+  logo-image: necc.png
+  site: http://necc.di.uminho.pt/
+  full-width: true
+- title:
+  logo-image: neeb.png
+  site: http://neebuminho.com/ #//TODO: É mesmo este?
+  full-width: true
