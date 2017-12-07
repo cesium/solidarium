@@ -34,7 +34,8 @@ colors:
   secondweek:     '#9c1f28'
   thirdweek:      '#3e7846'
   fourthweek:     '#9c1f28'
-  contacts:       '#70161a'
+  contacts:       '#3e7846'
+  supporters:     '#70161a'
 
 kramdown:
   auto_ids:  false
@@ -42,7 +43,7 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: stylesheets/_sass/
-  style: compressed 
+  style: compressed
 
 # HTML Compression
 compress_html:

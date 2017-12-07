@@ -1,5 +1,5 @@
 ---
-title: "Semana 17 a 23"
+title: "17 a 23"
 bg: thirdweek
 color: white
 border-color: white

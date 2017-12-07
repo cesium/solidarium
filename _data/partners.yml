@@ -1,6 +1,14 @@
 - title:
+  logo-image: sasum.png
+  site: https://www.sas.uminho.pt/
+  full-width: false
+- title:
   logo-image: NAMecUM.png
   site: https://www.facebook.com/NAMecUM/
+  full-width: true
+- title:
+  logo-image: aaum.png
+  site: http://www.aaum.pt/
   full-width: true
 - title:
   logo-image: NEEGIUM.png
@@ -13,10 +21,6 @@
 - title:
   logo-image: neebum.png
   site: https://www.facebook.com/Neebum-121385298045015/
-  full-width: true
-- title:
-  logo-image: aaum.png
-  site: http://www.aaum.pt/
   full-width: true
 - title:
   logo-image: aepum.png
