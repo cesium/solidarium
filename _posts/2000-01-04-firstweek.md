@@ -1,5 +1,5 @@
 ---
-title: "Semana 3 a 9"
+title: "3 a 9"
 bg: firstweek
 color: white
 border-color: white
@@ -19,8 +19,8 @@ icon: 1.png
   {% endif %}
     <div class="row activity-info-wrapper valign-wrapper">
       <div class="col m3 activity-img valign">
-        <a href="img/{{activity.image}}" data-lightbox="{{activity.image}}" data-title="{{ activity.title }}"> 
-          <img  src="img/{{activity.image}}" alt="{{ activity.title }}"> 
+        <a href="img/{{activity.image}}" data-lightbox="{{activity.image}}" data-title="{{ activity.title }}">
+          <img  src="img/{{activity.image}}" alt="{{ activity.title }}">
         </a>
       </div>
       <div class="col m9 activity-info">
@@ -65,7 +65,7 @@ icon: 1.png
   {% endif %}
     <div class="row activity-info-wrapper valign-wrapper">
       <div class="col m3 activity-img valign img-mobile">
-        <a href="img/{{activity.image}}" data-lightbox="{{activity.image}}-mobile" data-title="{{ activity.title }}"> 
+        <a href="img/{{activity.image}}" data-lightbox="{{activity.image}}-mobile" data-title="{{ activity.title }}">
           <img  src="img/{{activity.image}}" alt="{{ activity.title }}">
         </a>
       </div>
@@ -102,7 +102,7 @@ icon: 1.png
         {% endif %}
       </div>
       <div class="col m3 activity-img valign img-desktop">
-        <a href="img/{{activity.image}}" data-lightbox="{{activity.image}}" data-title="{{ activity.title }}"> 
+        <a href="img/{{activity.image}}" data-lightbox="{{activity.image}}" data-title="{{ activity.title }}">
           <img  src="img/{{activity.image}}" alt="{{ activity.title }}">
         </a>
       </div>

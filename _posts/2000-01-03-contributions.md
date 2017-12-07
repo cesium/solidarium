@@ -1,5 +1,5 @@
 ---
-title: "Como contribuir"
+title: "Contribuir"
 bg: contributions
 color: white
 border-color: white
