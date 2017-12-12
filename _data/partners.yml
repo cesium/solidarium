@@ -35,10 +35,6 @@
   site: #//TODO: adicionar website
   full-width: true
 - title:
-  logo-image: necc.png
-  site: http://necc.di.uminho.pt/
-  full-width: true
-- title:
   logo-image: neeb.png
   site: http://neebuminho.com/ #//TODO: É mesmo este?
   full-width: true

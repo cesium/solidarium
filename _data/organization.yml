@@ -15,18 +15,22 @@
   site: https://www.facebook.com/neouminho
   full-width: true
 - title:
-  logo-image: elsa.png
-  site: https://www.facebook.com/elsauminho/
-  full-width: true
+  logo-image: aiesec.png
+  site: http://aiesec.pt/
 - title:
   logo-image: NEDUM.png
   site: https://www.facebook.com/nucleoed/
   full-width: false
-- title:
-  logo-image: aiesec.png
-  site: http://aiesec.pt//
   full-width: true
 - title:
   logo-image: ADAEUM.png
   site: https://www.facebook.com/debatesuminho/
   full-width: false
+- title:
+  logo-image: necc.png
+  site: http://necc.di.uminho.pt/
+  full-width: true
+- title:
+  logo-image: elsa.png
+  site: https://www.facebook.com/elsauminho/
+  full-width: true
