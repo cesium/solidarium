@@ -84,7 +84,7 @@ secondweek:
     image: activities/Workshop_Haskell.png
     org: <a target="_blank" href="http://cesium.di.uminho.pt">NECC</a>
     typeform: https://docs.google.com/forms/d/e/1FAIpQLSd9-uzQpX3a3Gkay6r3CK1ZXwp6DgzzCOfStgvq2gybmhNJgQ/viewform?c=0&w=1
-    text: Sabes um pouco de Haskell e gostavas de conhecer algumas aplicações práticas desta linguagem de programação? Então este workshop é para ti! Esta atividade é grátis para sócios do NECC e tem o custo de 1€ para não sócios. Sócios e não sócios têm de contribuir com o bem alimentar.
+    text: Sabes um pouco de Haskell e gostavas de conhecer algumas aplicações práticas desta linguagem de programação? Então este workshop é para ti!
     speaker: Prof. Alcino Cunha
 
   - title: English Night
