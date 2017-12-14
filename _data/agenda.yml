@@ -87,16 +87,6 @@ secondweek:
     text: Sabes um pouco de Haskell e gostavas de conhecer algumas aplicações práticas desta linguagem de programação? Então este workshop é para ti!
     speaker: Prof. Alcino Cunha
 
-  - title: English Night
-    date: 13 de Dezembro
-    time: 24h
-    place: Universidade do Minho
-    logo-image: org/cesium.png
-    org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
-    typeform: https://cesium.typeform.com/to/HKIJg7
-    text: Saber falar, escrever e interpretar bem o inglês é uma capacidade cada vez mais necessária, mas nem todos o conseguem fazer. Para resolver esse problema, o CeSIUM propõe uma noite onde apenas se pode falar inglês, onde há jogos, comida, BEBIDA e muito convívio. Podes assim aperfeiçoar o teu inglês sem teres de fazer testes ou algo aborrecido como isso. Acima de tudo, o importante é divertires-te. Aparece!
-    speaker: <a target="_blank" href="https://github.com/martinhoaragao">Martinho Aragão</a>
-
   - title: Debate Intergeracional
     date: 16 de Dezembro
     time: 10h
