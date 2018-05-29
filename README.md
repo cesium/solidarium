@@ -1,5 +1,5 @@
 <a href="http://dezembrosolidario.cesium.di.uminho.pt" target="_blank">
-  <img align="right" src="https://raw.githubusercontent.com/nelsonmestevao/dezembro_solidario/ne/readme/img/sticker.png" alt="Dezembro Solidário" width="150">
+  <img align="right" src="http://dezembrosolidario.cesium.di.uminho.pt/img/sticker.png" alt="Dezembro Solidário" width="150">
 </a>
 
 # Dezembro Solidário
