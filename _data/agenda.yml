@@ -37,7 +37,7 @@ firstweek:
     text: O NEEBUM informa que, na próxima quarta-feira, dia 5 de dezembro, irá realizar uma formação intitulada por “Perturbações do Espectro do Autismo”.
     speaker: Paula Carvalho
   
-  - title: Quatro Workshops para estares preparado para este Natal
+  - title: Natal à IEEEngenheiro
     date: 5 de Dezembro
     time: 15h-17h
     place: Sala 2-1.50, Campus Azúrem, Universidade do Minho
@@ -61,6 +61,18 @@ secondweek:
     org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
     text: O fim do semestre está a chegar e com ele os relatórios em LaTeX para entregar? Não te preocupes! Se ainda não tens qualquer experiência com este processador de texto ou gostarias de aprofundar o teu conhecimento, aparece no workshop que o CeSIUM organizou no âmbito do Dezembro Solidário!.
     speaker: <a target="_blank" href="https://github.com/nelsonmestevao">Nelson Estevão</a>
+  - title: Sessão de esclarecimento sobre a UC Projeto
+    date: 13 de Dezembro
+    time: 15h
+    logo-image: sticker.png
+    org: <a target="_blank" href="https://www.facebook.com/nebqum/">NEBQUM</a>
+    speaker: Professora Célia Pais
+  - title: Sessão de esclarecimento sobre ERASMUS
+    date: 13 de Dezembro
+    time: 18h30
+    logo-image: sticker.png
+    org: <a target="_blank" href="https://www.facebook.com/nebqum/">NEBQUM</a>
+    speaker: Professores João Carlos Marcos, Rui Oliveira e Isabel Correia Neves
 
 thirdweek:
 
