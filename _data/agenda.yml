@@ -8,102 +8,61 @@ contributions:
     text: Ainda de modo a criar um espírito de partilha e de solidariedade entre todos durante este mês, todos os Núcleos, Associações e Secções participantes nesta iniciativa irão também cobrar como entrada para participação nas suas atividades ou num grupo de atividades específico bens alimentares, peças de vestuário e brinquedos que irão posteriormente ser colocados nos cabazes para serem entregues às instituições.
 
 firstweek:
-  - title: Torneio de FIFA17
-    date: 4 de Dezembro
-    place: CeSIUM
-    image: activities/fifa.jpg
-    org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
-    typeform: http://cesium.di.uminho.pt/activities/17
-    text: Como a vida não pode ser só trabalho e é igualmente importante o lazer e o convívio, trazemos-te um torneio de FIFA  17, e como fantásticos prémios poderás ganhar uma camisola do CeSIUM e uma garrafa de jeropiga ou vinho do Porto!! Lidera a tua equipa nesta divertida competição!
-
-  - title: Mass Training em suporte básico de vida
-    date: 5 de Dezembro
-    time: 10h
-    place: Sala do NEOUM
-    image: activities/sbv.jpeg
-    org: <a target="_blank" href="https://www.facebook.com/neouminho">NEOUM</a> <a target="_blank" href="https://www.facebook.com/nucleoed/">NEDUM</a>
-    text: O NEOUM e o NEDUM, em parceria com o INEM, vão proporcionar aos interessados, de forma GRATUITA, um Mass Training em Suporte Básico de Vida (SBV). Um Mass Training em Suporte Básico de Vida tem como objectivo, aumentar a consciencialização sobre um ato destinado a salvar vidas.
-
-  - title: Palestra MOLDEX 3D
-    date: 6 de Dezembro
-    time: 14h30
-    place: B1.10 - Azurém
-    image: activities/moldex.jpg
-    org: <a target="_blank" href="https://www.facebook.com/neep.uminho/">NEEP</a>
-    text: MOLDEX3D é um produto desenvolvido pela Coretech System Co. que incorpora as mais avançadas tecnologias de análise. Com uma interface amigável, permite até a um não especialista realizar estudos e encontrar soluções para potenciais problemas na peça e/ou projeto do molde. O MOLDEX3D dispõe de um conjunto completo de ferramentas de simulação para produtos plásticos injetados com uma tecnologia baseada nas malhas sólidas híbridas e no método de volumes finitos de alto desempenho.
-
-  - title: 'Arbitragem Tributária: uma nova alternativa na resolução de litígios'
-    date: 6 de Dezembro
-    place: Auditório Nobre, Escola de Direito
-    image: activities/direito.jpg
-    org: <a target="_blank" href="https://www.facebook.com/elsauminho/">ELSA</a>
-    text: É essencial dar a conhecer formas alternativas de resolução de litigiosidade tributária, sendo esta uma das áreas do direito que, cada vez mais, se denota como uma referência no panorama nacional e internacional. Considerando a ELSA que esta é uma disciplina essencial para a formação de um jurista, visamos dá-la a conhecer aos alunos de licenciatura. Para além disto, interrelaciona-se com várias áreas do direito, como o direito constitucional e o administrativo. É fundamental investir no conhecimento destas alternativas de resolução de litígios uma vez que o mundo do Direito não é fechado, nem se limita à barra do tribunal.
-
   - title: Hour of Code
-    date: 6 de Dezembro
-    time: 17h
-    place: A2 - Departamento de Informática
+    date: 5 de Dezembro
+    time: 16h
+    place: Edifício 2 - 0.11
     image: activities/hourofcode.png
     org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
-    typeform: http://www.cesium.di.uminho.pt/activities/18
-    text: A Hour of Code é uma hora dedicada a aprender programação, e é aberta a todo o público, não sendo preciso qualquer conhecimento prévio de programação para participar. Assim, oferecemos-te uma palestra introdutória de programação em Javascript, que irá culminar com o desenvolvimento do famosíssimo jogo Flappy Birds! Vem jogar connosco!
+    typeform: http://www.cesium.di.uminho.pt/activities/50
+    text: Estamos de volta com mais uma edição da Hour of Code, no âmbito do Dezembro Solidário! Para quem ainda não conhece, a Hour of Code permite que qualquer pessoa sem grande conhecimento na área de informática possa aprender algo sobre a mesma, nomeadamente a arte de programar! Traz o teu portátil e vem juntar-te a nós, por apenas um bem alimentar, no dia 5 de dezembro, às 16h, na sala 0.11 do CP2, onde poderás aprender connosco o básico sobre programação. O workshop irá consistir na criação de um jogo simples e conhecido por todos, o Snake, em JavaScript. 
 
-  - title: Talk About
-    date: 6 de Dezembro
-    time: 16h
-    place: TBA
-    image: activities/talkabout.png
-    org: <a target="_blank" href="http://um.ieee-pt.org/">IEEE - UMinho</a>
-    typeform: https://goo.gl/forms/cCv4SAmWwmWr6b3s1
-    text: TALK ABOUT terá a sua primeira edição com o tema "Blockchain for FinTech and for Industry Applications" , com o objetivo de promover a troca de conhecimentos entre o público e os oradores sobre novas tecnologias disjuntivas.
-    speaker: <a target="_blank" href="https://www.linkedin.com/in/trigomargarida/">Ana Trigo</a> <a target="_blank" href="https://www.linkedin.com/in/joaocunhagalvao/">João Galvão</a> <a target="_blank" href="https://www.linkedin.com/in/emanuel-mota-7371613/">Emanuel Mota</a>
+  - title: Plano de Comunicação- construção, execução e criatividade
+    date: 5 de Dezembro
+    time: 18h
+    place: Laboratório 007 do ICS
+    image: activities/pladodecom.jpg
+    org: <a target="_blank" href="https://www.facebook.com/gaccuminho/">GACCUM</a>
+    typeform: https://goo.gl/forms/nbEUijalezwiKEDo2
+    text: Na sequência dos três workshops, de "Alunos para alunos", o GACCUM tem o prazer de anunciar o terceiro, e último, workshop 'Plano de Comunicação- construção, execução e criatividade'. 
+    speaker: Diogo José Fernandes
+  
+  - title: Perturbações do Espectro do Autismo
+    date: 5 de Dezembro
+    time: 14H30
+    place: Sala de Atos, Instituto de Educação - Piso 1
+    image: activities/autism.jpg
+    org: <a target="_blank" href="https://www.facebook.com/NEEBUMMINHO/">NEEBUM</a>
+    typeform: https://goo.gl/forms/BtgiUki9B8OQqdaE2
+    text: O NEEBUM informa que, na próxima quarta-feira, dia 5 de dezembro, irá realizar uma formação intitulada por “Perturbações do Espectro do Autismo”.
+    speaker: Paula Carvalho
+  
+  - title: Quatro Workshops para estares preparado para este Natal
+    date: 5 de Dezembro
+    time: 15h-17h
+    place: Sala 2-1.50, Campus Azúrem, Universidade do Minho
+    image: activities/ieee.jpg
+    org: <a target="_blank" href="https://www.facebook.com/IEEEUMinhoSB">IEEE UMinho Student Branch</a>
+    text: Quatro Workshops para estares preparado para este Natal. Este evento faz parte do DEZEMBRO SOLIDÁRIO uma iniciativa Cesium - Centro Estudantes Informática, UMinho, com o objetivo de unir a comunidade académica e promover a solidariedade e partilha. Para participares neste evento, traz bens alimentares, peças de vestuário e/ou brinquedos.Estes bens serão entregues a uma instituição social de ajuda aos mais necessitados.
+
+  - title: WORKSHOP LTPlabs
+    date: 5 de Dezembro
+    time: 15h
+    place: Sala 11-0.11
+    image: activities/ltp.jpg
+    org: <a target="_blank" href="https://www.facebook.com/pg/NEEGIUM/">NEEGIUM</a>
+    text: "Production planning and stock optimization are enhanced with an appropriate production strategy (make-to-stock vs make-to-order). This workshop will explore the implementation of these principles on a process industry company, while challenging you to take part in the decision-making"
 
 secondweek:
-  - title: Jantar de 15º aniversário do NEMUM
+  - title: Workshop de LaTeX
     date: 12 de Dezembro
-    time: 21h
-    place: Restaurante Panorâmico da Universidade do Minho - Gualtar
-    logo-image: org/nemum.png
-    org: <a target="_blank" href="https://www.facebook.com/NEMUM">NEMUM</a>
-    text: O NEMUM celebra o seu 15º aniversário em 2017 e realizará um jantar aberto à comunidade académica para comemorar. Ao espírito de celebração de aniversário, associa-se o espírito natalício e de solidariedade. Os participantes do jantar são convidados a trazer bens alimentares, peças de vestuário e brinquedos e a colocá-los na árvore de Natal que estará no local para o efeito.
-
-  - title: Workshop Vue.js
-    date: 13 de Dezembro
-    time: 14h
-    place: 0.05 - Departamento de Informática
-    image: activities/vue.png
+    place: Departamento de Informática
+    logo-image: activities/latex.png
     org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
-    typeform: http://www.cesium.di.uminho.pt/activities/11
-    text: Este workshop ensina-te a utilizar o Vue.Js, uma framework de JavaScript para construir user interfaces, equiparável a React mas com uma curva de aprendizagem muito inferior e utilizada em websites como laravel.com e gitlab.com . Para além disso, o código resultante é de fácil leitura e a documentação é perfeita! Por isso se queres começar a dominar esta  ferramenta que te ajudará no futuro, participa!
-    speaker: <a target="_blank" href="https://github.com/fntneves">Francisco Neves</a>
-
-  - title: Workshop Haskell
-    date: 13 de Dezembro
-    time: 14h
-    place:
-    image: activities/Workshop_Haskell.png
-    org: <a target="_blank" href="http://cesium.di.uminho.pt">NECC</a>
-    typeform: https://docs.google.com/forms/d/e/1FAIpQLSd9-uzQpX3a3Gkay6r3CK1ZXwp6DgzzCOfStgvq2gybmhNJgQ/viewform?c=0&w=1
-    text: Sabes um pouco de Haskell e gostavas de conhecer algumas aplicações práticas desta linguagem de programação? Então este workshop é para ti!
-    speaker: Prof. Alcino Cunha
-
-  - title: Debate Intergeracional
-    date: 16 de Dezembro
-    time: 10h
-    place: TBA
-    logo-image: org/ADAEUM.png
-    org: <a target="_blank" href="https://www.facebook.com/debatesuminho/">ADAUM</a>
-    text: Debate especial entre gerações de sócios da ADAUM, todos estão convidados a aparecer e a trazer uma oferenda natalícia para os mais necessitados.
+    text: O fim do semestre está a chegar e com ele os relatórios em LaTeX para entregar? Não te preocupes! Se ainda não tens qualquer experiência com este processador de texto ou gostarias de aprofundar o teu conhecimento, aparece no workshop que o CeSIUM organizou no âmbito do Dezembro Solidário!.
+    speaker: <a target="_blank" href="https://github.com/nelsonmestevao">Nelson Estevão</a>
 
 thirdweek:
-  - title: Título da atividade 7
-    date: 4 de Dezembro
-    time: 16h-17h
-    place: CP2 1.01
-    image: seguranca.png
-    typeform: https://cesium.typeform.com/to/HKIJg7
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet commodo libero. Praesent consectetur, sem id egestas ullamcorper, turpis ligula maximus lorem, non congue quam mi ut enim. Vivamus eget dictum sem, vitae malesuada erat. Duis et placerat diam, bibendum dapibus tellus. Duis quis laoreet felis. Cras lobortis interdum eros, luctus laoreet ex faucibus id. In et lacus egestas, accumsan metus ac, sollicitudin ante. Aenean eleifend orci vel mollis sagittis. Vestibulum sed aliquam diam, at tincidunt nisl. Phasellus porttitor malesuada hendrerit. Curabitur nibh dolor, iaculis aliquet sagittis eget, vestibulum ac dui. Aenean arcu sapien, ultricies sit amet ipsum ut, accumsan consectetur risus. Duis felis diam, laoreet quis ipsum et, efficitur facilisis sapien.'
-    speaker: <a target="_blank" href="">Orador 1</a>, <a target="_blank" href="">Orador 2</a>
 
 fourthweek:
   - title: Dia de Natal
