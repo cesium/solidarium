@@ -60,6 +60,9 @@ icon: 2.png
         {% if activity.typeform %}
         <a class="waves-effect waves-light btn" href="{{ activity.typeform }}" target="blank">Inscrição</a>
         {% endif %}
+        {% if activity.typeformext %}
+        <a class="waves-effect waves-light btn" href="{{ activity.typeformext }}" target="blank">Inscrição para Externos</a>
+        {% endif %}
       </div>
     </div>
   </div>
@@ -111,6 +114,9 @@ icon: 2.png
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
         {% if activity.typeform %}
         <a class="waves-effect waves-light btn" href="{{ activity.typeform }}" target="blank">Inscrição</a>
+        {% endif %}
+        {% if activity.typeformext %}
+        <a class="waves-effect waves-light btn" href="{{ activity.typeformext }}" target="blank">Inscrição para Externos</a>
         {% endif %}
       </div>
       {% if activity.image %}
