@@ -66,11 +66,13 @@ secondweek:
 
   - title: Workshop de LaTeX
     date: 12 de Dezembro
-    place: Departamento de Informática
+    time: 16h00 - 17h30
+    place: Edifício 2 - 1.14
     logo-image: activities/latex.png
     org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
     text: O fim do semestre está a chegar e com ele os relatórios em LaTeX para entregar? Não te preocupes! Se ainda não tens qualquer experiência com este processador de texto ou gostarias de aprofundar o teu conhecimento, aparece no workshop que o CeSIUM organizou no âmbito do Dezembro Solidário!.
     speaker: <a target="_blank" href="https://github.com/nelsonmestevao">Nelson Estevão</a>
+    typeform: http://www.cesium.di.uminho.pt/activities/51
 
   - title: Aniversário CECRI
     date: 12 de Dezembro
