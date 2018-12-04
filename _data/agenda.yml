@@ -54,6 +54,16 @@ firstweek:
     text: "Production planning and stock optimization are enhanced with an appropriate production strategy (make-to-stock vs make-to-order). This workshop will explore the implementation of these principles on a process industry company, while challenging you to take part in the decision-making"
 
 secondweek:
+  - title: Ciclo de palestras
+    date: 11 de Dezembro
+    time: 14h-18h
+    place: A 0.01
+    image: activities/ciclo.jpg
+    org: <a target="_blank" href="https://www.facebook.com/cecri.uminho">CECRI</a>
+    typeform: https://goo.gl/forms/29TvlrBtIFyBxwi32
+    speaker: Hermes de Andrade, Francisco Coelho
+    text: "Com os seus 35 anos aí à porta, o centro de estudos do curso de relações internacionais apresenta a sua primeira atividade das comemorações, que se alia à iniciativa Dezembro Solidário, o Ciclo de Palestras “Frozen and Tropical Empires”! És curioso pelo espaço do ártico e da Amazónia? Gostas de perceber como a geopolítica influencia estes mesmos espaços? Ou queres enriquecer o teu conhecimento e currículo académico?  Não percas! Aparece dia 11 de dezembro, pelas 14:00 horas no auditório -1.01 da Escola de Economia e Gestão, e traz um bem alimentar como forma de validares a tua participação."
+
   - title: Workshop de LaTeX
     date: 12 de Dezembro
     place: Departamento de Informática
@@ -61,6 +71,18 @@ secondweek:
     org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
     text: O fim do semestre está a chegar e com ele os relatórios em LaTeX para entregar? Não te preocupes! Se ainda não tens qualquer experiência com este processador de texto ou gostarias de aprofundar o teu conhecimento, aparece no workshop que o CeSIUM organizou no âmbito do Dezembro Solidário!.
     speaker: <a target="_blank" href="https://github.com/nelsonmestevao">Nelson Estevão</a>
+
+  - title: Aniversário CECRI
+    date: 12 de Dezembro
+    time: 16h-18h
+    place: A 0.03
+    image: activities/aniv.jpeg
+    org: <a target="_blank" href="https://www.facebook.com/cecri.uminho">CECRI</a>
+    typeform: http://eegs.eeg.uminho.pt/
+    typeformext: https://goo.gl/forms/0dIzHXgXXzg1U38n1
+    speaker: Nuno Pereira, Rosário Rodrigues e Carlos Videira
+    text: "O associativismo é visto como algo moderno, marcado pelo séc.XXI, oferecendo a ideia de soft skills, porém, o trabalho associativo é um legado de movimentos sociais que moveram massas no século passado.  O Centro de Estudos do Curso de Relações Internacionais é um exemplo disso, nasce a 14 de dezembro de1983 e vem evoluindo até hoje, tendo como objetivo desenvolver as capacidades dos internacionalistas, bem como dinamizar e dar a conhecer as questões internacionais a toda a comunidade civil. Tendo como marco a celebração dos 35 anos do centro, é importante debater acerca das dinâmicas destas associações, principalmente a influência dos núcleos de estudantes sobre os empreendimentos futuros dos seus membros.  Assim, para além dos relatos de experiências dos oradores, discutiremos também sobre a atualidade política, internacional, social e económica comparativamente às gerações anteriores. Serão ainda abordados testemunhos de percursos académicos, profissionais e pessoais. Para a participação serão cobrados bens alimentares para a iniciativa Dezembro Solidário ;)"
+
   - title: Sessão de esclarecimento sobre a UC Projeto
     date: 13 de Dezembro
     time: 15h
