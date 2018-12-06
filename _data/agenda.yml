@@ -87,14 +87,15 @@ secondweek:
 
   - title: Sessão de esclarecimento sobre a UC Projeto
     date: 13 de Dezembro
-    time: 15h
-    logo-image: sticker.png
+    time: 16h
+    logo-image: activities/Projeto.png
     org: <a target="_blank" href="https://www.facebook.com/nebqum/">NEBQUM</a>
-    speaker: Professora Célia Pais
+    speaker: Professora Rui Oliveira
+
   - title: Sessão de esclarecimento sobre ERASMUS
     date: 13 de Dezembro
     time: 18h30
-    logo-image: sticker.png
+    logo-image: activities/Erasmus.png
     org: <a target="_blank" href="https://www.facebook.com/nebqum/">NEBQUM</a>
     speaker: Professores João Carlos Marcos, Rui Oliveira e Isabel Correia Neves
 
