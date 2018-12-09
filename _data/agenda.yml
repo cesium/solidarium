@@ -68,7 +68,7 @@ secondweek:
     date: 12 de Dezembro
     time: 16h00 - 17h30
     place: Edifício 2 - 1.14
-    logo-image: activities/latex.png
+    image: activities/latex.png
     org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
     text: O fim do semestre está a chegar e com ele os relatórios em LaTeX para entregar? Não te preocupes! Se ainda não tens qualquer experiência com este processador de texto ou gostarias de aprofundar o teu conhecimento, aparece no workshop que o CeSIUM organizou no âmbito do Dezembro Solidário!.
     speaker: <a target="_blank" href="https://github.com/nelsonmestevao">Nelson Estevão</a>
@@ -85,19 +85,33 @@ secondweek:
     speaker: Nuno Pereira, Rosário Rodrigues e Carlos Videira
     text: "O associativismo é visto como algo moderno, marcado pelo séc.XXI, oferecendo a ideia de soft skills, porém, o trabalho associativo é um legado de movimentos sociais que moveram massas no século passado.  O Centro de Estudos do Curso de Relações Internacionais é um exemplo disso, nasce a 14 de dezembro de1983 e vem evoluindo até hoje, tendo como objetivo desenvolver as capacidades dos internacionalistas, bem como dinamizar e dar a conhecer as questões internacionais a toda a comunidade civil. Tendo como marco a celebração dos 35 anos do centro, é importante debater acerca das dinâmicas destas associações, principalmente a influência dos núcleos de estudantes sobre os empreendimentos futuros dos seus membros.  Assim, para além dos relatos de experiências dos oradores, discutiremos também sobre a atualidade política, internacional, social e económica comparativamente às gerações anteriores. Serão ainda abordados testemunhos de percursos académicos, profissionais e pessoais. Para a participação serão cobrados bens alimentares para a iniciativa Dezembro Solidário ;)"
 
+  - title: Natal no Lar
+    date: 12 de Dezembro
+    time: 14h30
+    place: Centro de Solidariedade Humana Professor Emídio Guerreiro
+    logo-image: organization/NEEGIUM.png
+    org: <a target="_blank" href="https://www.facebook.com/NEEGIUM/">NEEGIUM</a>
+    text: "No dia 12 de dezembro, pelas 14h30, um grupo de alunos do curso de MIEGI vão marcar presença no Centro de Solidariedade Humana Professor Emídio Guerreiro, de modo a proporcionar um dia diferente aos utentes do lar. Será uma tarde marcada por sorrisos e boa disposição."
+
   - title: Sessão de esclarecimento sobre a UC Projeto
     date: 13 de Dezembro
     time: 16h
-    logo-image: activities/Projeto.png
+    image: activities/Projeto.png
     org: <a target="_blank" href="https://www.facebook.com/nebqum/">NEBQUM</a>
     speaker: Professora Rui Oliveira
 
   - title: Sessão de esclarecimento sobre ERASMUS
     date: 13 de Dezembro
     time: 18h30
-    logo-image: activities/Erasmus.png
+    image: activities/Erasmus.png
     org: <a target="_blank" href="https://www.facebook.com/nebqum/">NEBQUM</a>
     speaker: Professores João Carlos Marcos, Rui Oliveira e Isabel Correia Neves
+
+  - title: Já abraçaste alguém hoje? 
+    date: 14 de Dezembro
+    logo-image: organization/NEEGIUM.png
+    org: <a target="_blank" href="https://www.facebook.com/NEEGIUM/">NEEGIUM</a>
+    text: "No dia 14 de dezembro, o NEEGIUM realizará uma campanha de agitação urbana denominada “Já Abraçaste Alguém Hoje?”. O objetivo é espalhar alegria e espírito natalício no centro da cidade de Guimarães. A campanha terá três vertentes de interação com as pessoas: uma caixa, que chamará a atenção das pessoas e a sua curiosidade valerá um abraço; um cartaz, sendo que os participantes da campanha irão abordar as pessoas e incentivá-las a darem um abraço e, por último, um cartão, que será entregue às pessoas abordadas, com o objetivo de prolongar o efeito da campanha, desafiando-as a oferecer um vale de um abraço a alguém."
 
 thirdweek:
 
