@@ -74,7 +74,7 @@ secondweek:
     date: 12 de Dezembro
     time: 16h00 - 17h30
     place: Edifício 2 - 1.14
-    image: activities/latex.png
+    image: activities/intro-to-tex.png
     org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
     text: O fim do semestre está a chegar e com ele os relatórios em LaTeX para entregar? Não te preocupes! Se ainda não tens qualquer experiência com este processador de texto ou gostarias de aprofundar o teu conhecimento, aparece no workshop que o CeSIUM organizou no âmbito do Dezembro Solidário!.
     speaker: <a target="_blank" href="https://github.com/nelsonmestevao">Nelson Estevão</a>
