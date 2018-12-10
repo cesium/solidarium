@@ -7,6 +7,12 @@ contributions:
     logo-image: gift.png
     text: Ainda de modo a criar um espírito de partilha e de solidariedade entre todos durante este mês, todos os Núcleos, Associações e Secções participantes nesta iniciativa irão também cobrar como entrada para participação nas suas atividades ou num grupo de atividades específico bens alimentares, peças de vestuário e brinquedos que irão posteriormente ser colocados nos cabazes para serem entregues às instituições.
 
+corrida:
+  - title: Corrida Social
+    logo-image: corridacartaz.jpg
+    text: A Semana Social e o Dezembro Solidário uniram-se para uma nova edição da Corrida Social! É já no próximo sábado, 15 de Dezembro, pelas 10:00 horas no Pavilhão Desportivo de Gualtar que esperamos ver-te nesta iniciativa. A novidade desta edição? Baixámos o valor das inscrições para que possas trazer um bem alimentar para doar a uma instituição!
+    typeform: https://goo.gl/forms/ZjgcZUvy2uZik4hA3
+
 firstweek:
   - title: Hour of Code
     date: 5 de Dezembro
