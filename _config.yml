@@ -30,12 +30,13 @@ colors:
   intro:          '#70161a'
   description:    '#3e7846'
   contributions:  '#9c1f28'
-  firstweek:      '#3e7846'
-  secondweek:     '#9c1f28'
-  thirdweek:      '#3e7846'
-  fourthweek:     '#9c1f28'
-  contacts:       '#3e7846'
-  supporters:     '#70161a'
+  corrida:        '#3e7846'
+  firstweek:      '#9c1f28'
+  secondweek:     '#3e7846'
+  thirdweek:      '#9c1f28'
+  fourthweek:     '#3e7846'
+  contacts:       '#9c1f28'
+  supporters:     '#3e7846'
 
 kramdown:
   auto_ids:  false
