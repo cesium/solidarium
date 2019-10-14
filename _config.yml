@@ -5,7 +5,10 @@ safe: false
 
 
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
+exclude:
+  - REAME.md
+  - Rakefile
+  - LICENSE.txt
 permalink: /:title ## disables post output
 timezone: null
 lsi: false
@@ -14,8 +17,11 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Dezembro Solidário @ UMinho"
-keywords:    "CeSIUM, jekyll, December, github, universidade do minho, departamento informatica"
-description: "Dezembro Solidário é um projeto de cariz social que tem como objetivo trazer uma maior celebração da época natalícia à Universidade do Minho através de incentivos à solidariedade da comunidade académica."
+keywords:    "CeSIUM, December, Universidade do Minho, Departamento Informática"
+description: |
+  Dezembro Solidário é um projeto de cariz social que tem como objetivo
+  trazer uma maior celebração da época natalícia à Universidade do Minho
+  através de incentivos à solidariedade da comunidade académica.
 source_link: "https://github.com/cesium/dezembro_solidario"
 favicon:     "img/christmas-tree.ico"
 touch_icon:  "img/apple-touch-icon.png"
@@ -43,7 +49,7 @@ kramdown:
 
 # Sass/SCSS
 sass:
-  sass_dir: stylesheets/_sass/
+  sass_dir: _sass/
   style: compressed
 
 # HTML Compression
