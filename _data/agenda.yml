@@ -7,122 +7,26 @@ contributions:
     logo-image: gift.png
     text: Ainda de modo a criar um espírito de partilha e de solidariedade entre todos durante este mês, todos os Núcleos, Associações e Secções participantes nesta iniciativa irão também cobrar como entrada para participação nas suas atividades ou num grupo de atividades específico bens alimentares, peças de vestuário e brinquedos que irão posteriormente ser colocados nos cabazes para serem entregues às instituições.
 
-corrida:
-  - title: Corrida Social
-    logo-image: corridacartaz.jpg
-    text: A Semana Social e o Dezembro Solidário uniram-se para uma nova edição da Corrida Social! É já no próximo sábado, 15 de Dezembro, pelas 10:00 horas no Pavilhão Desportivo de Gualtar que esperamos ver-te nesta iniciativa. A novidade desta edição? Baixámos o valor das inscrições para que possas trazer um bem alimentar para doar a uma instituição!
-    typeform: https://goo.gl/forms/ZjgcZUvy2uZik4hA3
+#corrida:
+#  - title: Corrida Social
+#    logo-image: corridacartaz.jpg
+#    text: A Semana Social e o Dezembro Solidário uniram-se para uma nova edição da Corrida Social! É já no próximo sábado, 15 de Dezembro, pelas 10:00 horas no Pavilhão Desportivo de Gualtar que esperamos ver-te nesta iniciativa. A novidade desta edição? Baixámos o valor das inscrições para que possas trazer um bem alimentar para doar a uma instituição!
+#    typeform: https://goo.gl/forms/ZjgcZUvy2uZik4hA3
 
 firstweek:
-  - title: Hour of Code
-    date: 5 de Dezembro
-    time: 16h
-    place: Edifício 2 - 0.11
-    image: activities/hourofcode.png
-    org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
-    typeform: http://www.cesium.di.uminho.pt/activities/50
-    text: Estamos de volta com mais uma edição da Hour of Code, no âmbito do Dezembro Solidário! Para quem ainda não conhece, a Hour of Code permite que qualquer pessoa sem grande conhecimento na área de informática possa aprender algo sobre a mesma, nomeadamente a arte de programar! Traz o teu portátil e vem juntar-te a nós, por apenas um bem alimentar, no dia 5 de dezembro, às 16h, na sala 0.11 do CP2, onde poderás aprender connosco o básico sobre programação. O workshop irá consistir na criação de um jogo simples e conhecido por todos, o Snake, em JavaScript. 
-
-  - title: Plano de Comunicação- construção, execução e criatividade
-    date: 5 de Dezembro
-    time: 18h
-    place: Laboratório 007 do ICS
-    image: activities/pladodecom.jpg
-    org: <a target="_blank" href="https://www.facebook.com/gaccuminho/">GACCUM</a>
-    typeform: https://goo.gl/forms/nbEUijalezwiKEDo2
-    text: Na sequência dos três workshops, de "Alunos para alunos", o GACCUM tem o prazer de anunciar o terceiro, e último, workshop 'Plano de Comunicação- construção, execução e criatividade'. 
-    speaker: Diogo José Fernandes
+  #- title: Plano de Comunicação- construção, execução e criatividade
+  #  date: 5 de Dezembro
+  #  time: 18h
+  #  place: Laboratório 007 do ICS
+  #  image: activities/pladodecom.jpg
+  #  org: <a target="_blank" href="https://www.facebook.com/gaccuminho/">GACCUM</a>
+  #  typeform: https://goo.gl/forms/nbEUijalezwiKEDo2
+  #  text: Na sequência dos três workshops, de "Alunos para alunos", o GACCUM tem o prazer de anunciar o terceiro, e último, workshop 'Plano de Comunicação- construção, execução e criatividade'. 
+  #  speaker: Diogo José Fernandes
   
-  - title: Perturbações do Espectro do Autismo
-    date: 5 de Dezembro
-    time: 14H30
-    place: Sala de Atos, Instituto de Educação - Piso 1
-    image: activities/autism.jpg
-    org: <a target="_blank" href="https://www.facebook.com/NEEBUMMINHO/">NEEBUM</a>
-    typeform: https://goo.gl/forms/BtgiUki9B8OQqdaE2
-    text: O NEEBUM informa que, na próxima quarta-feira, dia 5 de dezembro, irá realizar uma formação intitulada por “Perturbações do Espectro do Autismo”.
-    speaker: Paula Carvalho
-  
-  - title: Natal à IEEEngenheiro
-    date: 5 de Dezembro
-    time: 15h-17h
-    place: Sala 2-1.50, Campus Azúrem, Universidade do Minho
-    image: activities/ieee.jpg
-    org: <a target="_blank" href="https://www.facebook.com/IEEEUMinhoSB">IEEE UMinho Student Branch</a>
-    text: Quatro Workshops para estares preparado para este Natal. Este evento faz parte do DEZEMBRO SOLIDÁRIO uma iniciativa Cesium - Centro Estudantes Informática, UMinho, com o objetivo de unir a comunidade académica e promover a solidariedade e partilha. Para participares neste evento, traz bens alimentares, peças de vestuário e/ou brinquedos.Estes bens serão entregues a uma instituição social de ajuda aos mais necessitados.
-
-  - title: WORKSHOP LTPlabs
-    date: 5 de Dezembro
-    time: 15h
-    place: Sala 11-0.11
-    image: activities/ltp.jpg
-    org: <a target="_blank" href="https://www.facebook.com/pg/NEEGIUM/">NEEGIUM</a>
-    text: "Production planning and stock optimization are enhanced with an appropriate production strategy (make-to-stock vs make-to-order). This workshop will explore the implementation of these principles on a process industry company, while challenging you to take part in the decision-making"
-
 secondweek:
-  - title: Ciclo de palestras
-    date: 11 de Dezembro
-    time: 14h-18h
-    place: A 0.01
-    image: activities/ciclo.jpg
-    org: <a target="_blank" href="https://www.facebook.com/cecri.uminho">CECRI</a>
-    typeform: https://goo.gl/forms/29TvlrBtIFyBxwi32
-    speaker: Hermes de Andrade, Francisco Coelho
-    text: "Com os seus 35 anos aí à porta, o centro de estudos do curso de relações internacionais apresenta a sua primeira atividade das comemorações, que se alia à iniciativa Dezembro Solidário, o Ciclo de Palestras “Frozen and Tropical Empires”! És curioso pelo espaço do ártico e da Amazónia? Gostas de perceber como a geopolítica influencia estes mesmos espaços? Ou queres enriquecer o teu conhecimento e currículo académico?  Não percas! Aparece dia 11 de dezembro, pelas 14:00 horas no auditório -1.01 da Escola de Economia e Gestão, e traz um bem alimentar como forma de validares a tua participação."
-
-  - title: Workshop de LaTeX
-    date: 12 de Dezembro
-    time: 16h00 - 17h30
-    place: Edifício 2 - 1.14
-    image: activities/intro-to-tex.png
-    org: <a target="_blank" href="http://cesium.di.uminho.pt">CeSIUM</a>
-    text: O fim do semestre está a chegar e com ele os relatórios em LaTeX para entregar? Não te preocupes! Se ainda não tens qualquer experiência com este processador de texto ou gostarias de aprofundar o teu conhecimento, aparece no workshop que o CeSIUM organizou no âmbito do Dezembro Solidário!.
-    speaker: <a target="_blank" href="https://github.com/nelsonmestevao">Nelson Estevão</a>
-    typeform: http://www.cesium.di.uminho.pt/activities/51
-
-  - title: Aniversário CECRI
-    date: 12 de Dezembro
-    time: 16h-18h
-    place: A 0.03
-    image: activities/aniv.jpeg
-    org: <a target="_blank" href="https://www.facebook.com/cecri.uminho">CECRI</a>
-    typeform: http://eegs.eeg.uminho.pt/
-    typeformext: https://goo.gl/forms/0dIzHXgXXzg1U38n1
-    speaker: Nuno Pereira, Rosário Rodrigues e Carlos Videira
-    text: "O associativismo é visto como algo moderno, marcado pelo séc.XXI, oferecendo a ideia de soft skills, porém, o trabalho associativo é um legado de movimentos sociais que moveram massas no século passado.  O Centro de Estudos do Curso de Relações Internacionais é um exemplo disso, nasce a 14 de dezembro de1983 e vem evoluindo até hoje, tendo como objetivo desenvolver as capacidades dos internacionalistas, bem como dinamizar e dar a conhecer as questões internacionais a toda a comunidade civil. Tendo como marco a celebração dos 35 anos do centro, é importante debater acerca das dinâmicas destas associações, principalmente a influência dos núcleos de estudantes sobre os empreendimentos futuros dos seus membros.  Assim, para além dos relatos de experiências dos oradores, discutiremos também sobre a atualidade política, internacional, social e económica comparativamente às gerações anteriores. Serão ainda abordados testemunhos de percursos académicos, profissionais e pessoais. Para a participação serão cobrados bens alimentares para a iniciativa Dezembro Solidário ;)"
-
-  - title: Natal no Lar
-    date: 12 de Dezembro
-    time: 14h30
-    place: Centro de Solidariedade Humana Professor Emídio Guerreiro
-    logo-image: organization/NEEGIUM.png
-    org: <a target="_blank" href="https://www.facebook.com/NEEGIUM/">NEEGIUM</a>
-    text: "No dia 12 de dezembro, pelas 14h30, um grupo de alunos do curso de MIEGI vão marcar presença no Centro de Solidariedade Humana Professor Emídio Guerreiro, de modo a proporcionar um dia diferente aos utentes do lar. Será uma tarde marcada por sorrisos e boa disposição."
-
-  - title: Sessão de esclarecimento sobre a UC Projeto
-    date: 13 de Dezembro
-    time: 16h
-    image: activities/Projeto.png
-    org: <a target="_blank" href="https://www.facebook.com/nebqum/">NEBQUM</a>
-    speaker: Professora Rui Oliveira
-
-  - title: Sessão de esclarecimento sobre ERASMUS
-    date: 13 de Dezembro
-    time: 18h30
-    image: activities/Erasmus.png
-    org: <a target="_blank" href="https://www.facebook.com/nebqum/">NEBQUM</a>
-    speaker: Professores João Carlos Marcos, Rui Oliveira e Isabel Correia Neves
-
-  - title: Já abraçaste alguém hoje? 
-    date: 14 de Dezembro
-    logo-image: organization/NEEGIUM.png
-    org: <a target="_blank" href="https://www.facebook.com/NEEGIUM/">NEEGIUM</a>
-    text: "No dia 14 de dezembro, o NEEGIUM realizará uma campanha de agitação urbana denominada “Já Abraçaste Alguém Hoje?”. O objetivo é espalhar alegria e espírito natalício no centro da cidade de Guimarães. A campanha terá três vertentes de interação com as pessoas: uma caixa, que chamará a atenção das pessoas e a sua curiosidade valerá um abraço; um cartaz, sendo que os participantes da campanha irão abordar as pessoas e incentivá-las a darem um abraço e, por último, um cartão, que será entregue às pessoas abordadas, com o objetivo de prolongar o efeito da campanha, desafiando-as a oferecer um vale de um abraço a alguém."
-
+  
 thirdweek:
 
 fourthweek:
-  - title: Dia de Natal
-    date: 25 de Dezembro
-    logo-image: activities/natal.png
-    text: <p> O Natal é uma época festiva, em que trocamos presentes com quem nos é mais querido, celebramos com muita comida, bebida e, sobretudo, muito amor e carinho. </p> <p> Mas o Natal também é a época de olharmos para o outro, é a época da solidariedade, da entreajuda, da partilha, o Natal é o momento de fazer um esforço para estender a mão ao próximo. </p> <p> Convidamos-te então a participar numa sessão de introspeção neste dia, em que apesar de separados estaremos todos com o mesmo objetivo em mente, propagar o verdadeiro espírito natalício e melhorar o dia de quem mais precisa! </p>
+  
