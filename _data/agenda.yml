@@ -13,8 +13,9 @@ contributions:
 #    text: A Semana Social e o Dezembro Solidário uniram-se para uma nova edição da Corrida Social! É já no próximo sábado, 15 de Dezembro, pelas 10:00 horas no Pavilhão Desportivo de Gualtar que esperamos ver-te nesta iniciativa. A novidade desta edição? Baixámos o valor das inscrições para que possas trazer um bem alimentar para doar a uma instituição!
 #    typeform: https://goo.gl/forms/ZjgcZUvy2uZik4hA3
 
-firstweek:
-  #- title: Plano de Comunicação- construção, execução e criatividade
+
+# exemplo de atividade ########################################################################
+#- title: Plano de Comunicação- construção, execução e criatividade
   #  date: 5 de Dezembro
   #  time: 18h
   #  place: Laboratório 007 do ICS
@@ -23,10 +24,49 @@ firstweek:
   #  typeform: https://goo.gl/forms/nbEUijalezwiKEDo2
   #  text: Na sequência dos três workshops, de "Alunos para alunos", o GACCUM tem o prazer de anunciar o terceiro, e último, workshop 'Plano de Comunicação- construção, execução e criatividade'. 
   #  speaker: Diogo José Fernandes
+###############################################################################################
+
+firstweek:
+  - title: Why Linux?
+    date: 5 de Dezembro
+    time: 17h
+    place: Auditório A2 do DI
+    image:
+    typeform:
+    text:
+    speaker: Carlos Ferreira
   
 secondweek:
-  
+  - title: Hour of Code
+    date: 
+    time: 
+    place: 
+    image:
+    typeform:
+    text:
+    speaker: Carlos Ferreira
 thirdweek:
+  - title: Visita ao Hospital
+    date: 18 de Dezembro
+    time: 15h30 
+    place: Hospital de Braga
+    image:
+    typeform:
+    text:
+  - title: Visita Oficina de S.José
+    date: 19 de Dezembro
+    time: 14h30 
+    place: Oficina de S.José
+    image:
+    typeform:
+    text:
+  - title: Visita à Casa da Criança
+    date: 20 de Dezembro
+    time:  
+    place: Casa da Criança de Guimarães
+    image:
+    typeform:
+    text:
 
 fourthweek:
   
