@@ -27,11 +27,20 @@ contributions:
 ###############################################################################################
 
 firstweek:
+  - title: "Comunicação e Marketing: Let's Talk"
+    date: 4 de Dezembro
+    time: 16h30
+    place: Auditório 1.01 da EEG
+    image: activities/Marketing.jpg
+    typeform:
+    text:
+    speaker: Sara Dias & Inês Braz
+    org: <a target="_blank" href="http://gaccum.weebly.com/">GACCUM</a>
   - title: Why Linux?
     date: 5 de Dezembro
     time: 17h
     place: Auditório A2 do DI
-    image:
+    image: 1.png
     typeform:
     text:
     speaker: Carlos Ferreira
@@ -41,30 +50,39 @@ secondweek:
     date: 
     time: 
     place: 
-    image:
+    image: 1.png
     typeform:
     text:
     speaker: Carlos Ferreira
+  - title: Workshop de Public Speaking
+    date: 11 de Dezembro
+    time: 
+    place: B-lounge da Biblioteca de Azurém
+    image: 1.png
+    typeform:
+    text:
+    speaker: Toastmasters
+    org: <a target="_blank" href="https://www.facebook.com/NEEMAT.UMinho/">NEEMAT</a>
 thirdweek:
   - title: Visita ao Hospital
     date: 18 de Dezembro
     time: 15h30 
     place: Hospital de Braga
-    image:
+    image: 1.png
     typeform:
     text:
   - title: Visita Oficina de S.José
     date: 19 de Dezembro
     time: 14h30 
     place: Oficina de S.José
-    image:
+    image: 1.png
     typeform:
     text:
   - title: Visita à Casa da Criança
     date: 20 de Dezembro
     time:  
     place: Casa da Criança de Guimarães
-    image:
+    image: 1.png
     typeform:
     text:
 
