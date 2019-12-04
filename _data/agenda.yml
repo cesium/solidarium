@@ -65,11 +65,12 @@ secondweek:
     typeform:
     text:
     speaker: Carlos Ferreira
+
   - title: Workshop de Public Speaking
     date: 11 de Dezembro
-    time: 
+    time: 14h30
     place: B-lounge da Biblioteca de Azurém
-    image: 1.png
+    image: activities/public.png
     typeform:
     text:
     speaker: Toastmasters
