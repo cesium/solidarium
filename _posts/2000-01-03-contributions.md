@@ -40,13 +40,15 @@ icon: contribuir.png
     </div>
     {% endif %}
     {% if activity.donations-section %}
+    <div class="row">
       {% for institution in activity.donations-section %}
-        <div class="col m4">
+        <div class="col md4 donation-card">
           <p class="activity-desc"> {{ institution.name }} </p>
           <p class="activity-desc">MBWAY {{ institution.mbway }} </p>
           <p class="activity-desc">IBAN {{ institution.iban }} </p>
         </div>
       {% endfor %}
+    </div>
     {% endif %}
   </div>
   {% else %}
