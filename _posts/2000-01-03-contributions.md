@@ -27,6 +27,9 @@ icon: contribuir.png
         </div>
         {% endif %}
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
+        {% if activity.subtext %}
+        <p class="col m12 activity-desc"> {{ activity.subtext }} </p>
+        {% endif %}
         {% if activity.typeform %}
         <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.typeform }}" target="blank">Inscrição</a>
         {% endif %}
@@ -52,6 +55,9 @@ icon: contribuir.png
         </div>
         {% endif %}
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
+        {% if activity.subtext %}
+        <p class="col m12 activity-desc"> {{ activity.subtext }} </p>
+        {% endif %}
         {% if activity.typeform %}
         <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.typeform }}" target="blank">Inscrição</a>
         {% endif %}
