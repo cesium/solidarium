@@ -40,12 +40,13 @@ icon: contribuir.png
     </div>
     {% endif %}
     {% if activity.donations-section %}
-    <div class="row">
+    <div class="row donation-row">
       {% for institution in activity.donations-section %}
-        <div class="col md10 donation-card">
-          <h3 class="donation-title"> {{ institution.name }} </h3>
-          <p><strong>MBWAY</strong> {{ institution.mbway }} </p>
-          <p><strong>IBAN</strong> {{ institution.iban }} </p>
+        <div class="col s8 m4 donation-card">
+          <h3 class="donation-title"><strong> {{ institution.name }} </strong></h3>
+          <strong>MBWAY</strong> {{ institution.mbway }} <br>
+          <strong>IBAN</strong> {{ institution.iban }} <br>
+          <p></p>
         </div>
       {% endfor %}
     </div>
