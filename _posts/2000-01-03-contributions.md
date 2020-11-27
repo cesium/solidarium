@@ -42,8 +42,8 @@ icon: contribuir.png
     {% if activity.donations-section %}
     <div class="row">
       {% for institution in activity.donations-section %}
-        <div class="col md5 donation-card">
-          <h4> {{ institution.name }} </h4>
+        <div class="col md6 donation-card">
+          <h3> {{ institution.name }} </h3>
           <p><strong>MBWAY</strong> {{ institution.mbway }} </p>
           <p><strong>IBAN</strong> {{ institution.iban }} </p>
         </div>
