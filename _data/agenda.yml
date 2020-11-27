@@ -1,13 +1,28 @@
 contributions:
   - title: Contribuir em cabazes de natal
     logo-image: christmas-tree.ico
-    text: De modo a envolver e apelar à participação de toda a comunidade académica, desde alunos, funcionários, professores a possíveis visitantes para ajudar quem mais precisa, por toda a Universidade do Minho, poderás encontrar <b>cabazes</b>, identificados com a iniciativa, para <b>recolha de bens alimentares, peças de vestuário e brinquedos</b>, porque por mais pequena que seja a nossa contribuição, todos juntos faremos a diferença.
+    text: De modo a envolver e apelar à participação de toda a comunidade académica, desde alunos, funcionários, professores a possíveis visitantes para ajudar quem mais precisa, por toda a Universidade do Minho, poderás encontrar <strong>cabazes</strong>, identificados com a iniciativa, para <b>recolha de bens alimentares, peças de vestuário e brinquedos</b>, porque por mais pequena que seja a nossa contribuição, todos juntos faremos a diferença.
 
   - title: Contribuir ao participar nos eventos listados
     logo-image: gift.png
     text: Ainda de modo a criar um espírito de partilha e de solidariedade entre todos durante este mês, todos os <b>Núcleos, Associações e Secções</b> participantes nesta iniciativa irão também cobrar na participação nas suas atividades, ou num grupo de atividades específico, a <b>doação de bens alimentares, peças de vestuário ou brinquedos</b> num dos <b>cabazes</b> espalhados pela Universidade ou a <b>doação por MB Way ou transferência</b> para uma <b>instituição de solidariedade</b> à escolha. No MB Way já existe a opção de fazer doações em “Ser Solidário”.
     subtext: "Estas são 5 das inúmeras instituições para as quais podem ser feitas as doações nas atividades ao longo de todo o mês de dezembro:"
     donations-section:
+      - name: Cruz Vermelha Braga
+        mbway: 918 391 794
+        iban: PT50 0035 0027 0002 5871 9322 7
+      - name: Operação Nariz Vermelho
+        mbway: 937 929 911
+        iban: PT50 0036 0310 99100011439 56
+      - name: Banco Alimentar Braga
+        mbway: 917 491 866
+        iban: PT50 0033 0000 45420028841 05
+      - name: Aldeias de Crianças SOS
+        mbway: 932 020 854
+        iban: PT50 0036 0088 991000 13262 51
+      - name: Liga Portuguesa Contra o Cancro
+        mbway: 912 043 200
+        iban: PT50 0033 0000 00045773469 76
 
 #corrida:
 #  - title: Corrida Social

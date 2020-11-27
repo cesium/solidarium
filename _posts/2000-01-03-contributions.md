@@ -31,7 +31,11 @@ icon: contribuir.png
         <p class="col m12 activity-desc"> {{ activity.subtext }} </p>
         {% endif %}
         {% if activity.donations-section %}
-        <p class="col m12 activity-desc"> {{ activity.subtext }} </p>
+          {% for institution in activity.donations-section %}
+            <p class="col m12 activity-desc"> {{ institution.name }} </p>
+            <p class="col m12 activity-desc"> {{ institution.mbway }} </p>
+            <p class="col m12 activity-desc"> {{ institution.iban }} </p>
+          {% endfor %}
         {% endif %}
         {% if activity.typeform %}
         <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.typeform }}" target="blank">Inscrição</a>
