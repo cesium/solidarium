@@ -82,6 +82,25 @@ icon: contribuir.png
         <img src="img/{{activity.logo-image}}" alt="{{activity.title}}">
       </div>
     </div>
+    {% if activity.subtext %}
+    <div class="row activity-info-wrapper valign-wrapper">
+      <div class="col m12 activity-info">
+        <p class="col m12 activity-desc"> {{ activity.subtext }} </p>
+      </div>
+    </div>
+    {% endif %}
+    {% if activity.donations-section %}
+    <div class="row donation-row">
+      {% for institution in activity.donations-section %}
+        <div class="col s8 m4 donation-card">
+          <h3 class="donation-title"><strong> {{ institution.name }} </strong></h3>
+          <strong>MBWAY</strong> {{ institution.mbway }} <br>
+          <strong>IBAN</strong> {{ institution.iban }} <br>
+          <p></p>
+        </div>
+      {% endfor %}
+    </div>
+    {% endif %}
   </div>
   {% endif %}
 {% endfor %}

@@ -53,22 +53,62 @@ contributions:
 ###############################################################################################
 
 firstweek:
-  - title: "Dummy Title"
-    date: 4 de Dezembro
-    time: 14h15
-    place: top secret location
-    image: activities/Marketing.jpg
-    typeform: www.google.pt
-    text: Descrição muito ilucidativa da coisa. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. 
-      Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. 
-      Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. 
-      Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. Coisas. 
-    speaker: Adolfo Dias
-    org: <a target="_blank" href="http://gaccum.weebly.com/">GACCUM</a>
   
 secondweek:
+  - title: "CAOS Launch Program"
+    date: 7 de Dezembro
+    time: 18h00
+    place: TBA
+    image: activities/Marketing.jpg
+    typeform: 
+    text: |
+      Programa de aprendizagem faseado e estruturado cujo objetivo é o desenvolvimento de 
+      competências na área de Web Development. 
+    speaker: 
+    org: 
+
+  - title: "Workshop de Adobe Illustrator"
+    date: 8 de Dezembro
+    time: 21h00
+    place: Google Meet
+    image: activities/Marketing.jpg
+    typeform: 
+    text: 
+    speaker: Luis Araújo
+    org: 
+
+  - title: "Hour of Code"
+    date: 9 de Dezembro
+    time: 16h00
+    place: Google Meet
+    image: activities/Marketing.jpg
+    typeform: 
+    text: | 
+      O Hour of Code é uma introdução de uma hora a "coding", projetada para o desmistificar 
+      e mostrar que qualquer pessoa pode aprender o básico de como escrever código!
+    speaker: Alexandre Gomes
+    org: 
 
 thirdweek:
+  - title: "Dungeons and Dragons"
+    date: 15 de Dezembro
+    time: 20h00
+    place: TBA
+    image: activities/dad.png
+    typeform: 
+    text: | 
+      Campanha de DnD dedicada aos alunos de Miei
+    speaker: 
+    org: 
 
 fourthweek:
-  
+  - title: "Geek Night"
+    date: 21 de Dezembro
+    time: 21h30
+    place: TBA
+    image: activities/dad.png
+    typeform: 
+    text: | 
+      Conjunto de talks de curta duração que visam promover a cultura informática num ambiente informal
+    speaker: 
+    org: 
