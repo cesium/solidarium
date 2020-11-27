@@ -41,9 +41,11 @@ icon: contribuir.png
     {% endif %}
     {% if activity.donations-section %}
       {% for institution in activity.donations-section %}
-        <p class="col m12 activity-desc"> {{ institution.name }} </p>
-        <p class="col m12 activity-desc">MBWAY {{ institution.mbway }} </p>
-        <p class="col m12 activity-desc">IBAN {{ institution.iban }} </p>
+        <div class="col m4">
+          <p class="activity-desc"> {{ institution.name }} </p>
+          <p class="activity-desc">MBWAY {{ institution.mbway }} </p>
+          <p class="activity-desc">IBAN {{ institution.iban }} </p>
+        </div>
       {% endfor %}
     {% endif %}
   </div>
