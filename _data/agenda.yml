@@ -1,12 +1,13 @@
 contributions:
   - title: Contribuir em cabazes de natal
     logo-image: christmas-tree.ico
-    text: De modo a envolver e apelar à participação de toda a comunidade académica, desde alunos, funcionários, professores a possíveis visitantes para ajudar quem mais precisa, por toda a Universidade do Minho, poderás encontrar cabazes, identificados com a iniciativa, para recolha de bens alimentares, peças de vestuário e brinquedos, porque por mais pequena que seja a nossa contribuição, todos juntos faremos a diferença.
+    text: De modo a envolver e apelar à participação de toda a comunidade académica, desde alunos, funcionários, professores a possíveis visitantes para ajudar quem mais precisa, por toda a Universidade do Minho, poderás encontrar <b>cabazes</b>, identificados com a iniciativa, para <b>recolha de bens alimentares, peças de vestuário e brinquedos</b>, porque por mais pequena que seja a nossa contribuição, todos juntos faremos a diferença.
 
   - title: Contribuir ao participar nos eventos listados
     logo-image: gift.png
-    text: Ainda de modo a criar um espírito de partilha e de solidariedade entre todos durante este mês, todos os Núcleos, Associações e Secções participantes nesta iniciativa irão também cobrar na participação nas suas atividades, ou num grupo de atividades específico, a doação de bens alimentares, peças de vestuário ou brinquedos num dos cabazes espalhados pela Universidade ou a doação por MB Way ou transferência para uma instituição de solidariedade à escolha. No MB Way já existe a opção de fazer doações em “Ser Solidário”.
-    subtext: Estas são 5 das inúmeras instituições para as quais podem ser feitas as doações nas atividades ao longo de todo o mês de dezembro":"
+    text: Ainda de modo a criar um espírito de partilha e de solidariedade entre todos durante este mês, todos os <b>Núcleos, Associações e Secções</b> participantes nesta iniciativa irão também cobrar na participação nas suas atividades, ou num grupo de atividades específico, a <b>doação de bens alimentares, peças de vestuário ou brinquedos</b> num dos <b>cabazes</b> espalhados pela Universidade ou a <b>doação por MB Way ou transferência</b> para uma <b>instituição de solidariedade</b> à escolha. No MB Way já existe a opção de fazer doações em “Ser Solidário”.
+    subtext: "Estas são 5 das inúmeras instituições para as quais podem ser feitas as doações nas atividades ao longo de todo o mês de dezembro:"
+    donations-section:
 
 #corrida:
 #  - title: Corrida Social
