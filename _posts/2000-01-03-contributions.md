@@ -42,10 +42,10 @@ icon: contribuir.png
     {% if activity.donations-section %}
     <div class="row">
       {% for institution in activity.donations-section %}
-        <div class="col md3 donation-card">
-          <p class="activity-desc"> {{ institution.name }} </p>
-          <p class="activity-desc">MBWAY {{ institution.mbway }} </p>
-          <p class="activity-desc">IBAN {{ institution.iban }} </p>
+        <div class="col md5 donation-card">
+          <h4> {{ institution.name }} </h4>
+          <p><strong>MBWAY</strong> {{ institution.mbway }} </p>
+          <p><strong>IBAN</strong> {{ institution.iban }} </p>
         </div>
       {% endfor %}
     </div>
