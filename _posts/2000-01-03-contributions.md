@@ -37,14 +37,14 @@ icon: contribuir.png
       <div class="col m12 activity-info">
         <p class="col m12 activity-desc"> {{ activity.subtext }} </p>
       </div>
-      {% if activity.donations-section %}
-        {% for institution in activity.donations-section %}
-          <p class="col m12 activity-desc"> {{ institution.name }} </p>
-          <p class="col m12 activity-desc">MBWAY {{ institution.mbway }} </p>
-          <p class="col m12 activity-desc">IBAN {{ institution.iban }} </p>
-        {% endfor %}
-      {% endif %}
     </div>
+    {% endif %}
+    {% if activity.donations-section %}
+      {% for institution in activity.donations-section %}
+        <p class="col m12 activity-desc"> {{ institution.name }} </p>
+        <p class="col m12 activity-desc">MBWAY {{ institution.mbway }} </p>
+        <p class="col m12 activity-desc">IBAN {{ institution.iban }} </p>
+      {% endfor %}
     {% endif %}
   </div>
   {% else %}
