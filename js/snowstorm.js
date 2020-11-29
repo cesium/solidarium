@@ -5,7 +5,7 @@
  * Version 1.44.20131208 (Previous rev: 1.44.20131125)
  * Copyright (c) 2007, Scott Schiller. All rights reserved.
  * Code provided under the BSD License
- * http://schillmania.com/projects/snowstorm/license.txt
+ * https://schillmania.com/projects/snowstorm/license.txt
  */
 
 /*jslint nomen: true, plusplus: true, sloppy: true, vars: true, white: true */
@@ -78,7 +78,7 @@ var snowStorm = (function(window, document) {
 
     /**
      * hat tip: paul irish
-     * http://paulirish.com/2011/requestanimationframe-for-smart-animating/
+     * https://paulirish.com/2011/requestanimationframe-for-smart-animating/
      * https://gist.github.com/838785
      */
 
