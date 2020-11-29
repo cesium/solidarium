@@ -33,11 +33,22 @@ contributions:
         mbway: 912 043 200
         iban: PT50 0033 0000 00045773469 76
 
+  - title: Partilha connosco a tua doação
+    logo-image: contribuir.png
+    text: |
+      Este ano pela primeira vez incentivamos a doação por <strong>MB Way ou transferência a uma instituição de solidariedade</strong> 
+      na participação das atividade do Dezembro Solidário. Sendo possível também a doação de um <strong>bem alimentar, peças de 
+      vestuário ou brinquedos</strong> num dos cabazes colocados pela Universidade. Envia-nos o teu <strong>comprovativo da doação</strong>.
+    button-name: Participação
+    button-link: https://forms.gle/fg2ZATDUwHhoucgQ8
+
+
 #corrida:
 #  - title: Corrida Social
 #    logo-image: corridacartaz.jpg
 #    text: A Semana Social e o Dezembro Solidário uniram-se para uma nova edição da Corrida Social! É já no próximo sábado, 15 de Dezembro, pelas 10:00 horas no Pavilhão Desportivo de Gualtar que esperamos ver-te nesta iniciativa. A novidade desta edição? Baixámos o valor das inscrições para que possas trazer um bem alimentar para doar a uma instituição!
-#    typeform: https://goo.gl/forms/ZjgcZUvy2uZik4hA3
+#    button-name: Nome do Botão
+#    button-link: https://forms.gle/fg2ZATDUwHhoucgQ8
 
 
 # exemplo de atividade ########################################################################
@@ -47,7 +58,8 @@ contributions:
   #  place: Laboratório 007 do ICS
   #  image: activities/pladodecom.jpg
   #  org: <a target="_blank" href="https://www.facebook.com/gaccuminho/">GACCUM</a>
-  #  typeform: https://goo.gl/forms/nbEUijalezwiKEDo2
+  #  button-name: Nome do Botão
+  #  button-link: https://forms.gle/fg2ZATDUwHhoucgQ8
   #  text: Na sequência dos três workshops, de "Alunos para alunos", o GACCUM tem o prazer de anunciar o terceiro, e último, workshop 'Plano de Comunicação- construção, execução e criatividade'. 
   #  speaker: Diogo José Fernandes
 ###############################################################################################
@@ -70,7 +82,7 @@ secondweek:
   - title: "Workshop de Adobe Illustrator"
     date: 8 de Dezembro
     time: 21h00
-    place: Google Meet
+    place: <a target="_blank" href="http://meet.google.com/toa-zfwg-irx">Google Meet</a>
     image: activities/Marketing.jpg
     typeform: 
     text: 
@@ -80,7 +92,7 @@ secondweek:
   - title: "Hour of Code"
     date: 9 de Dezembro
     time: 16h00
-    place: Google Meet
+    place: <a target="_blank" href="http://meet.google.com/cna-fybh-efo">Google Meet</a>
     image: activities/Marketing.jpg
     typeform: 
     text: | 
