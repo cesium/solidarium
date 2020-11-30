@@ -1,12 +1,39 @@
 - title:
-  logo-image: sasum.png
-  site: https://www.sas.uminho.pt/
-  full-width: false
-- title:
-  logo-image: aaum.png
-  site: https://www.aaum.pt/
+  logo-image: gaccum.png
+  site: http://gaccum.weebly.com/
   full-width: true
+
 - title:
-  logo-image: nemum.png
-  site: https://www.facebook.com/NEMUM
+  logo-image: NEEMAT.png
+  site: https://www.facebook.com/NEEMAT.UMinho/
+  full-width: true
+
+- title:
+  logo-image: aececum.png
+  site: https://www.facebook.com/nucleoaececum/
+  full-width: true
+
+- title:
+  logo-image: nadpum.png
+  site: https://www.facebook.com/NADPUM-N%C3%BAcleo-de-Alunos-de-Design-de-Produto-da-Universidade-do-Minho-141716600067713/
+  full-width: true
+
+- title:
+  logo-image: MODUM.png
+  site: https://www.facebook.com/nucleoaececum/
+  full-width: true
+
+- title:
+  logo-image: nebaum.png
+  site: https://nebaum.wixsite.com/uminho
+  full-width: true
+
+- title:
+  logo-image: NEDUM.png
+  site: https://www.ie.uminho.pt/pt/Ensino/Paginas/Nucleos-de-Estudantes.aspx
+  full-width: true
+
+- title:
+  logo-image: aecrimum.png
+  site: https://www.facebook.com/aecrimum/
   full-width: true

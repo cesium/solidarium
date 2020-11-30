@@ -45,10 +45,16 @@ icon: contribuir.png
     <div class="row donation-row">
       {% for institution in activity.donations-section %}
         <div class="col s8 m4 donation-card">
-          <h3 class="donation-title"><strong> {{ institution.name }} </strong></h3>
-          <strong>MBWAY</strong> {{ institution.mbway }} <br>
-          <strong>IBAN</strong> {{ institution.iban }} <br>
-          <p></p>
+          {% if institution.site %}
+          <a href="{{ institution.site }}" target="_blank" style="text-decoration: none !important;">
+          {% endif %}
+            <h3 class="donation-title"><strong> {{ institution.name }} </strong></h3>
+            <strong>MBWAY</strong> {{ institution.mbway }} <br>
+            <strong>IBAN</strong> {{ institution.iban }} <br>
+            <p></p>
+          {% if institution.site %}
+          </a>
+          {% endif %}
         </div>
       {% endfor %}
     </div>
