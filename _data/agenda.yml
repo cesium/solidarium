@@ -20,18 +20,23 @@ contributions:
       - name: Cruz Vermelha Braga
         mbway: 918 391 794
         iban: PT50 0035 0027 0002 5871 9322 7
+        site: https://braga.cruzvermelha.pt/
       - name: Operação Nariz Vermelho
         mbway: 937 929 911
         iban: PT50 0036 0310 99100011439 56
+        site: https://www.narizvermelho.pt/
       - name: Banco Alimentar Braga
         mbway: 917 491 866
         iban: PT50 0033 0000 45420028841 05
+        site: https://www.bancoalimentar.pt/bancos/braga/
       - name: Aldeias de Crianças SOS
         mbway: 932 020 854
         iban: PT50 0036 0088 991000 13262 51
+        site: https://www.aldeias-sos.org/
       - name: Liga Portuguesa Contra o Cancro
         mbway: 912 043 200
         iban: PT50 0033 0000 00045773469 76
+        site: https://www.ligacontracancro.pt/
 
   - title: Partilha connosco a tua doação
     logo-image: contribuir.png
@@ -71,11 +76,14 @@ secondweek:
     date: 7 de Dezembro
     time: 18h00
     place: TBA
-    image: activities/Marketing.jpg
+    image: 
     typeform: 
     text: |
-      Programa de aprendizagem faseado e estruturado cujo objetivo é o desenvolvimento de 
-      competências na área de Web Development. 
+      Programa de aprendizagem faseado e estruturado cujo objetivo é o desenvolvimento de competências na área de Web Development.
+      Os alunos podem ingressar em um de três percursos distintos: Miners Guild (FullStack com Ruby e a Framework Rails), Order 
+      of the Phoenix (Backend com Elixir e a Framework Phoenix) e Fallout Institute (Frontend com JavaScript e a Framework  React), 
+      onde podem ganhar skills específicas numa fase inicial para depois se juntarem a uma Launch Team e desenvolver projetos para 
+      o CeSIUM.
     speaker: 
     org: 
 
@@ -83,9 +91,13 @@ secondweek:
     date: 8 de Dezembro
     time: 21h00
     place: <a target="_blank" href="http://meet.google.com/toa-zfwg-irx">Google Meet</a>
-    image: activities/Marketing.jpg
+    image: 
     typeform: 
-    text: 
+    text: |
+      Workshop sobre ferramenta Adobe Illustrator no qual ser apresentada uma vista global, começando por conceitos básicos 
+      desde fonts, cores (CMKY e RGB) ou objetos e layers. Evoluindo depois para as diferentes ferramentas Shape Tolls e Curvature 
+      Toll. Por fim, serão apresentandos alguns efeitos e truques mais avançados tais como Drop Shadow, Feather, Inner Glow, entre 
+      outros.
     speaker: Luis Araújo
     org: 
 
@@ -93,11 +105,12 @@ secondweek:
     date: 9 de Dezembro
     time: 16h00
     place: <a target="_blank" href="http://meet.google.com/cna-fybh-efo">Google Meet</a>
-    image: activities/Marketing.jpg
+    image: 
     typeform: 
     text: | 
-      O Hour of Code é uma introdução de uma hora a "coding", projetada para o desmistificar 
-      e mostrar que qualquer pessoa pode aprender o básico de como escrever código!
+      Workshop de uma hora projetada para desmistificar o conceito de programação, mostrando que qualquer pessoa pode aprender o 
+      básico de 'coding'. Nesta edição vamos para o lado mais artístico da programação, ensinando-te a codificar o teu próprio 
+      caleidoscópio!
     speaker: Alexandre Gomes
     org: 
 
@@ -109,7 +122,13 @@ thirdweek:
     image: activities/dad.png
     typeform: 
     text: | 
-      Campanha de DnD dedicada aos alunos de Miei
+      Dungeons and Dragons é um jogo de tabuleiro de roleplay no qual podem ser o que quiserem. O único limite será a vossa imaginação. 
+      Um jogo aonde as decisões de cada jogador possuem o poder de afetar por completo a história a ser contada e onde as regras são 
+      muitas vezes apenas sugestões.
+      Dungeons and Dragons sendo um jogo de tabuleiro requer que todos os elementos de um grupo joguem numa sala para algumas horas 
+      de roleplay e diversão. Face ao corrente estado de pandemia somos forçados a adaptar um pouco a experiência, passando a usar a 
+      plataforma Roll20 de modo a possibilitar uma experiência de D&D à distância.
+
     speaker: 
     org: 
 
@@ -118,9 +137,10 @@ fourthweek:
     date: 21 de Dezembro
     time: 21h30
     place: TBA
-    image: activities/dad.png
+    image: 
     typeform: 
     text: | 
-      Conjunto de talks de curta duração que visam promover a cultura informática num ambiente informal
+      Talk de curta duração que visa promover a cultura informática num ambiente informal, através da partilha de curiosidades, 
+      experiências e projetos pessoais.
     speaker: 
     org: 
