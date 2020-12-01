@@ -3,7 +3,7 @@
  * by Lokesh Dhakar
  *
  * More info:
- * http://lokeshdhakar.com/projects/lightbox2/
+ * https://lokeshdhakar.com/projects/lightbox2/
  *
  * Copyright 2007, 2018 Lokesh Dhakar
  * Released under the MIT license
@@ -39,7 +39,7 @@
   }
 
   // Descriptions of all options available on the demo site:
-  // http://lokeshdhakar.com/projects/lightbox2/index.html#options
+  // https://lokeshdhakar.com/projects/lightbox2/index.html#options
   Lightbox.defaults = {
     albumLabel: 'Image %1 of %2',
     alwaysShowNavOnTouchDevices: false,

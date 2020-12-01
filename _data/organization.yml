@@ -1,24 +1,24 @@
-- title:
-  logo-image: deb.png
-  site: https://www.deb.uminho.pt/
-- title:
-  logo-image:  AEDUM.png
-  site: http://aedum.com/
-- title:
-  logo-image: NEEGIUM.png
-  site: https://www.facebook.com/NEEGIUM/
-- title:
-  logo-image: NEEMAT.png
-  site: https://www.facebook.com/NEEMAT.UMinho/
-- title:
-  logo-image: eeum.png
-  site: https://www.eng.uminho.pt/pt
-- title:
-  logo-image: GACCUM.png
-  site: http://gaccum.weebly.com/
-- title:
-  logo-image: GeoPlanUM.png
-  site: https://geoplanum.weebly.com/
-- title:
-  logo-image: AISCUM.png
-  site: https://aissc.dsi.uminho.pt/
+# - title:
+#   logo-image: deb.png
+#   site: https://www.deb.uminho.pt/
+# - title:
+#   logo-image:  AEDUM.png
+#   site: https://aedum.com/
+# - title:
+#   logo-image: NEEGIUM.png
+#   site: https://www.facebook.com/NEEGIUM/
+# - title:
+#   logo-image: NEEMAT.png
+#   site: https://www.facebook.com/NEEMAT.UMinho/
+# - title:
+#   logo-image: eeum.png
+#   site: https://www.eng.uminho.pt/pt
+# - title:
+#   logo-image: GACCUM.png
+#   site: https://gaccum.weebly.com/
+# - title:
+#   logo-image: GeoPlanUM.png
+#   site: https://geoplanum.weebly.com/
+# - title:
+#   logo-image: AISCUM.png
+#   site: https://aissc.dsi.uminho.pt/

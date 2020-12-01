@@ -49,6 +49,29 @@ Bundling the website into static files for production.
 rake build
 ```
 
+### :whale: Docker
+
+You can also use a docker container if you prefer.
+
+Setup the container.
+
+```
+docker-compose up -d
+```
+
+Start the development server and go to http://localhost:4000.
+
+```
+docker-compose start
+```
+
+Stop the development server.
+
+```
+docker-compose stop
+```
+
+
 ## :handshake: Contributing
 
 Please read [CONTRIBUTING][contributing] and [CODE_OF_CONDUCT][code_of_conduct]
