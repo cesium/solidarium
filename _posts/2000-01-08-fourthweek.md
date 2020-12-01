@@ -134,4 +134,6 @@ icon: 4.png
 <div class="section-lines section-bottom section-right"></div>
 {% endif %}
 
-![dezembro_solidario](img/feriasnatal.png)
+<div style="max-width: 50%; margin:0 auto;">
+  <img  src="img/dia-de-natal.png">
+</div>
