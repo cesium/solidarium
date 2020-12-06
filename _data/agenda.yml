@@ -73,7 +73,7 @@ firstweek:
   
 secondweek:
   - title: "CAOS Launch Program"
-    date: 7 de Dezembro
+    date: 7 de dezembro
     time: 18h00
     place: TBA
     image: activities/launch.png
@@ -88,7 +88,7 @@ secondweek:
     org: CeSIUM
 
   - title: "Workshop de Adobe Illustrator"
-    date: 8 de Dezembro
+    date: 8 de dezembro
     time: 21h00
     place: <a target="_blank" href="https://meet.google.com/toa-zfwg-irx">Google Meet</a>
     image: 
@@ -102,7 +102,7 @@ secondweek:
     org: CeSIUM
 
   - title: "Hour of Code"
-    date: 9 de Dezembro
+    date: 9 de dezembro
     time: 18h00
     place: <a target="_blank" href="https://meet.google.com/cna-fybh-efo">Google Meet</a>
     image: activities/hourcode.png
@@ -115,7 +115,7 @@ secondweek:
     org: CeSIUM
 
   - title: "Estruturas de Trabalho Académico"
-    date: 10 de Dezembro
+    date: 10 de dezembro
     time: 18h00
     place:
     image: activities/activity10.jpeg
@@ -129,7 +129,7 @@ secondweek:
 
 thirdweek:
   - title: "Dungeons and Dragons"
-    date: 15 de Dezembro
+    date: 15 de dezembro
     time: 20h00
     place: TBA
     image: activities/dad.png
@@ -145,7 +145,7 @@ thirdweek:
     org: CeSIUM
 
   - title: "Noite Solidária de BA"
-    date: 18 de Dezembro
+    date: 18 de dezembro
     time: 21h30
     place: 
     image: activities/nsolid.jpeg
@@ -162,7 +162,7 @@ thirdweek:
 
 fourthweek:
   - title: "Geek Night"
-    date: 21 de Dezembro
+    date: 21 de dezembro
     time: 21h30
     place: TBA
     image: 
