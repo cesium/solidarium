@@ -114,6 +114,19 @@ secondweek:
     speaker: Alexandre Gomes
     org: CeSIUM
 
+  - title: "Estruturas de Trabalho Académico"
+    date: 10 de Dezembro
+    time: 18h00
+    place:
+    image: activities/activity10.jpeg
+    typeform: https://www.instagram.com/aemodum/
+    text: | 
+      Achas um quebra-cabeças referenciar informação ou até mesmo fazer um índice? Não te preocupes, o professor Hélder ajuda 😊 
+      O workshop irá decorrer na plataforma zoom, dia 10 de dezembro às 18h. Em troca, apenas apelamos à doação de um bem para 
+      uma instituição de caridade!
+    speaker: Hélder Carvalho
+    org: AEMODUM
+
 thirdweek:
   - title: "Dungeons and Dragons"
     date: 15 de Dezembro
