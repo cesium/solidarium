@@ -22,19 +22,19 @@ contributions:
         iban: PT50 0035 0027 0002 5871 9322 7
         site: https://braga.cruzvermelha.pt/
       - name: Operação Nariz Vermelho
-        mbway: 937 929 911
+        mbway: Opção Ser Solidário
         iban: PT50 0036 0310 99100011439 56
         site: https://www.narizvermelho.pt/
       - name: Banco Alimentar Braga
-        mbway: 917 491 866
+        mbway: Opção Ser Solidário
         iban: PT50 0033 0000 45420028841 05
         site: https://www.bancoalimentar.pt/bancos/braga/
       - name: Aldeias de Crianças SOS
-        mbway: 932 020 854
+        mbway: Opção Ser Solidário
         iban: PT50 0036 0088 991000 13262 51
         site: https://www.aldeias-sos.org/
       - name: Liga Portuguesa Contra o Cancro
-        mbway: 912 043 200
+        mbway: Opção Ser Solidário
         iban: PT50 0033 0000 00045773469 76
         site: https://www.ligacontracancro.pt/
 
@@ -46,6 +46,13 @@ contributions:
       vestuário ou brinquedos</strong> num dos cabazes colocados pela Universidade. Envia-nos o teu <strong>comprovativo da doação</strong>.
     button-name: Participação
     button-link: https://forms.gle/fg2ZATDUwHhoucgQ8
+
+  - title: Este Natal, sê VoluntáriUM!
+    logo-image: org.png
+    text: |
+      Consulta as oportunidades de voluntariado disponíveis na plataforma <strong>VoluntáriUM</strong> da AAUMinho.
+    button-name: Oportunidades
+    button-link: https://www.aaum.pt/oportunidades
 
 
 #corrida:
@@ -91,7 +98,7 @@ secondweek:
     date: 8 de dezembro
     time: 21h00
     place: <a target="_blank" href="https://meet.google.com/toa-zfwg-irx">Google Meet</a>
-    image: 
+    image: activities/adobe.png
     typeform: 
     text: |
       Workshop sobre ferramenta Adobe Illustrator no qual ser apresentada uma vista global, começando por conceitos básicos 
