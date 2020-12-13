@@ -135,6 +135,19 @@ secondweek:
     org: AEMODUM
 
 thirdweek:
+  - title: "Feira de voluntariado"
+    date: 14 de dezembro
+    time: 14h00
+    place: TBA
+    image: activities/feira.png
+    typeform: 
+    text: | 
+      A importância do voluntariado deve ser algo ainda mais reforçado numa época como aquela que vivemos. Para isso, no próximo dia 
+      14 de dezembro pelas 14h, via zoom, iremos dar a conhecer algumas oportunidades, para que quem tenha possibilidades, possa 
+      ajudar quem mais precisa!
+    speaker: APAV, Juventude da Cruz Vermelha e UDream
+    org: AEDUM
+
   - title: "Dungeons and Dragons"
     date: 15 de dezembro
     time: 20h00
@@ -149,6 +162,45 @@ thirdweek:
       de roleplay e diversão. Face ao corrente estado de pandemia somos forçados a adaptar um pouco a experiência, passando a usar a 
       plataforma Roll20 de modo a possibilitar uma experiência de D&D à distância.
     speaker: 
+    org: CeSIUM
+
+  - title: "Convívio Discord"
+    date: 16 de dezembro
+    time: 21h00
+    place: TBA
+    image: 
+    typeform: 
+    text: | 
+      Convívio no Discord de MIEI no qual poderás passar um bom tempo com os teus colegas de curso numa dinâmica com diversos jogos, 
+      tais como o Among Us. Aparece e diverte-te connosco!
+    speaker: 
+    org: CeSIUM
+
+  - title: "À mesa com Materiais"
+    date: 16 de dezembro
+    time: 18h00
+    place: Direto no Facebook do NEEMAT
+    image: activities/materiais.jpeg
+    typeform: 
+    text: | 
+      Dentro de um curso tão diversificado e transversal a tantas áreas, que estão constantemente em reinvenção, torna-se imperativo 
+      começares a traçar o teu caminho!👩‍🔬
+      É assente nesta premissa que o NEEMAT apresenta mais uma atividade, desta feita uma sessão informal com testemunhos de 
+      Engenheiros de Materiais de diversas vertentes industriais.
+      Junta-te a nós e esclarece todas as tuas dúvidas, contamos contigo!😉
+    speaker: António Teixeira
+    org: MIEMAT
+
+  - title: "Segurança em Sistemas Eleitorais e as Eleições Presidenciais dos EUA"
+    date: 17 de dezembro
+    time: 21h00
+    place: <a target="_blank" href="https://meet.google.com/hbe-jhws-ogo">Google Meet</a>
+    image: activities/ciber.png
+    typeform: 
+    text: | 
+      Sempre quiseste saber mais sobre Cibersegurança? Sempre tiveste interesse em aprender como proteger os teus dispositivos 
+      eletrónicos de possíveis ataques maliciosos? Então não podes perder a palestra que preparámos para ti! 😉
+    speaker: Sérgio Tenreiro
     org: CeSIUM
 
   - title: "Noite Solidária de BA"
