@@ -4,11 +4,6 @@
   full-width: true
 
 - title:
-  logo-image: NEEMAT.png
-  site: https://www.facebook.com/NEEMAT.UMinho/
-  full-width: true
-
-- title:
   logo-image: aececum.png
   site: https://www.facebook.com/nucleoaececum/
   full-width: true
@@ -24,8 +19,13 @@
   full-width: true
 
 - title:
-  logo-image: direito.png
-  site: http://aedum.com/
+  logo-image: aaum.png
+  site: https://www.aaum.pt/
+  full-width: true
+
+- title:
+  logo-image: logo_neegium.png
+  site: https://neegium.wordpress.com/
   full-width: true
 
 - title:
