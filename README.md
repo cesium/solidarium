@@ -1,84 +1,34 @@
-[contributing]: CONTRIBUTING.md
-[code_of_conduct]: CODE_OF_CONDUCT.md
-[license]: LICENSE.txt
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<a href="https://dezembrosolidario.cesium.di.uminho.pt" target="_blank">
-  <img align="right" src="img/sticker.png" alt="Dezembro Solidário" width="250">
-</a>
+## Getting Started
 
-# :christmas_tree: Dezembro Solidário
+First, run the development server:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/eccde42a-3f33-470d-a3e0-d21872e8899a/deploy-status)](https://app.netlify.com/sites/dezembro-solidario/deploys)
-
-O Dezembro Solidário é um projeto de cariz social, que tem como objetivo trazer
-uma maior celebração da época natalícia à [Universidade do
-Minho](https://www.uminho.pt/PT) através de incentivos à união da comunidade
-académica, espalhando decorações e unindo as nossas associações de estudantes
-num espírito de solidariedade e partilha, já que no final do mês todos os bens
-recolhidos durante a atividade serão oferecidos a uma instituição social de
-ajuda aos mais necessitados.
-
-## :rocket: Getting Started
-
-These instructions will get you a copy of the project up and running on your
-local machine for development and testing purposes.
-
-### :inbox_tray: Prerequisites
-
-The following software is required to be installed on your system:
-
-- [ruby](https://www.ruby-lang.org/en/downloads/)
-
-Install all dependencies using `bundle install`.
-
-### :hammer: Development
-
-Starting the development server at <http://localhost:4000>.
-
-```
-rake develop
+```bash
+npm run dev
+# or
+yarn dev
 ```
 
-This is the default task, so you can run just `rake`.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### :package: Deployment
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-Bundling the website into static files for production.
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-```
-rake build
-```
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-### :whale: Docker
+## Learn More
 
-You can also use a docker container if you prefer.
+To learn more about Next.js, take a look at the following resources:
 
-Setup the container.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-```
-docker-compose up -d
-```
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-Start the development server and go to http://localhost:4000.
+## Deploy on Vercel
 
-```
-docker-compose start
-```
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Stop the development server.
-
-```
-docker-compose stop
-```
-
-
-## :handshake: Contributing
-
-Please read [CONTRIBUTING][contributing] and [CODE_OF_CONDUCT][code_of_conduct]
-for details on our code of conduct and the process for submitting pull requests
-to us.
-
-## :memo: License
-
-This project is licensed under the MIT License - see the [LICENSE][license] file
-for details.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
