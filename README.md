@@ -1,84 +1,29 @@
-[contributing]: CONTRIBUTING.md
-[code_of_conduct]: CODE_OF_CONDUCT.md
-[license]: LICENSE.txt
+# Next.js + Tailwind CSS Example
 
-<a href="https://dezembrosolidario.cesium.di.uminho.pt" target="_blank">
-  <img align="right" src="img/sticker.png" alt="Dezembro Solidário" width="250">
-</a>
+This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
-# :christmas_tree: Dezembro Solidário
+It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/eccde42a-3f33-470d-a3e0-d21872e8899a/deploy-status)](https://app.netlify.com/sites/dezembro-solidario/deploys)
+## Preview
 
-O Dezembro Solidário é um projeto de cariz social, que tem como objetivo trazer
-uma maior celebração da época natalícia à [Universidade do
-Minho](https://www.uminho.pt/PT) através de incentivos à união da comunidade
-académica, espalhando decorações e unindo as nossas associações de estudantes
-num espírito de solidariedade e partilha, já que no final do mês todos os bens
-recolhidos durante a atividade serão oferecidos a uma instituição social de
-ajuda aos mais necessitados.
+Preview the example live on [StackBlitz](http://stackblitz.com/):
 
-## :rocket: Getting Started
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
-These instructions will get you a copy of the project up and running on your
-local machine for development and testing purposes.
+## Deploy your own
 
-### :inbox_tray: Prerequisites
+Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
-The following software is required to be installed on your system:
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
 
-- [ruby](https://www.ruby-lang.org/en/downloads/)
+## How to use
 
-Install all dependencies using `bundle install`.
+Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
 
-### :hammer: Development
-
-Starting the development server at <http://localhost:4000>.
-
-```
-rake develop
+```bash
+npx create-next-app --example with-tailwindcss with-tailwindcss-app
+# or
+yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
-This is the default task, so you can run just `rake`.
-
-### :package: Deployment
-
-Bundling the website into static files for production.
-
-```
-rake build
-```
-
-### :whale: Docker
-
-You can also use a docker container if you prefer.
-
-Setup the container.
-
-```
-docker-compose up -d
-```
-
-Start the development server and go to http://localhost:4000.
-
-```
-docker-compose start
-```
-
-Stop the development server.
-
-```
-docker-compose stop
-```
-
-
-## :handshake: Contributing
-
-Please read [CONTRIBUTING][contributing] and [CODE_OF_CONDUCT][code_of_conduct]
-for details on our code of conduct and the process for submitting pull requests
-to us.
-
-## :memo: License
-
-This project is licensed under the MIT License - see the [LICENSE][license] file
-for details.
+Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
