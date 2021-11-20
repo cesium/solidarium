@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 @font-face {
   font-family: "Ontel";
   src: url("/fonts/Ontel-font/Ontel.ttf");
@@ -34,9 +35,6 @@
   font-display: swap;
 }
 
-body {
-  background: black url(https://lh3.googleusercontent.com/-8yGCBzF9F_s/XCHzZ5t7sJI/AAAAAAAAAlA/fnnU7Cma8UM9oE9ztOtlcqFs_aZiRI-aQCK8BGAs/s0/2018-12-25.jpg) center center no-repeat/cover;
-}
 /* customizable snowflake styling */
 .snowflake {
   color: #fff;
@@ -169,18 +167,4 @@ body {
   left:90%;
   -webkit-animation-delay:3s,1.5s;
   animation-delay:3s,1.5s
-}
-
-  /* Demo Purpose Only*/
-.demo {
-font-family: 'Raleway', sans-serif;
-color:#fff;
-  display: block;
-  margin: 0 auto;
-  padding: 15px 0;
-  text-align: center;
-}
-.demo a{
-font-family: 'Raleway', sans-serif;
-color: #000;		
 }

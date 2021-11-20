@@ -12,12 +12,42 @@ export default function Home() {
       <Header />
 
       <Snowfall />
-
+      
       <Nav />
 
       <Intro />
+      <ul className="lightrope">
+        <li></li>
+        <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
 
+      
       <SectionDivider />
+
 
       <Descrição />
 
