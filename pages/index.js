@@ -1,55 +1,27 @@
-import Header from '../components/Header'
+import Snowfall from '../components/Snowfall'
 import Nav from '../components/Nav'
-import Intro from '../components/Intro'
+import Hero from '../components/Hero'
 import SectionDivider from '../components/SectionDivider'
 import Descrição from '../components/Descrição'
-import Snowfall from '../components/Snowfall'
+import Contribuir from '../components/Contribuir'
 
 export default function Home() {
   return (
     <div className="bg-primary">
-      
-      <Header />
 
       <Snowfall />
       
       <Nav />
 
-      <Intro />
-      <ul className="lightrope">
-        <li></li>
-        <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul>
+      <Hero />
 
-      
-      <SectionDivider />
-
+      <SectionDivider img="/images/sticker.svg" titulo="Descrição"/>
 
       <Descrição />
+
+      <SectionDivider img="/images/sticker.svg" titulo="Contribuir"/>
+
+      <Contribuir />
 
     </div>
   );

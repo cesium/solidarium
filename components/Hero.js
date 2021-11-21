@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-export default function Intro() {
+export default function Hero() {
   return(
     <div className="w-full h-full bg-primary">
       <div className="flex flex-col items-center w-full pb-64 pt-28">
