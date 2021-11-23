@@ -1,14 +1,12 @@
 import { MenuIcon } from '@heroicons/react/outline'
-import { Link, animateScroll as scroll } from "react-scroll";
-
-
+import { Link } from "react-scroll";
 
 export const navigation = [
-  { name: 'Descrição', to: 'description' },
-  { name: 'Contribuir', to: 'contribute' },
-  { name: 'Atividades', to: '#' },
-  { name: 'Organização', to: '#' },
-  { name: 'Parceiros', to: '#' },
+  { name: 'Descrição', id: 'description' },
+  { name: 'Contribuir', id: 'contribute' },
+  { name: 'Atividades', id: 'activities' },
+  { name: 'Organização', id: 'organization' },
+  { name: 'Parceiros', id: 'partners' },
 ]
 
 export default function Nav() {
@@ -32,10 +30,11 @@ export default function Nav() {
       <div className="justify-center hidden h-10 col-span-4 my-4 space-x-4 text-center md:flex lg:space-x-6">
         {navigation.map((item) => (
           <Link
-            to={item.to}
+            key={item.id}
+            to={item.id}
             smooth={true}
             durantion={1000}
-            className="text-xs text-white lg:text-base font-code_light hover:text-secondary"
+            className="text-xs text-white cursor-pointer lg:text-base font-code_light hover:text-secondary"
           >
             {item.name}
           </Link>

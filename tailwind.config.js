@@ -1,6 +1,6 @@
 module.exports = {
   mode: 'jit',
-  purge: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
+  purge: ['./pages/**/*.{js,ts,jsx,tsx}','./sections/**/*.{js,ts,jsx,tsx}' ,'./components/**/*.{js,ts,jsx,tsx}'],
   darkMode: false, // or 'media' or 'class'
   theme: {
     borderRadius: {
@@ -22,7 +22,7 @@ module.exports = {
       colors: {
         primary: "#D53932",
         secondary: "#9c191b",
-        green: "#1c6131"
+        tertiary: "#1c6131"
       }
     },
   },

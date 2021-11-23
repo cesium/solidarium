@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Descrição({id}) {
   return(
-    <section id={id} className="h-full px-6 py-52 bg-green sm:px-20 lg:px-52 xl:px-64">
+    <section id={id} className="h-full px-6 py-52 bg-tertiary sm:px-20 lg:px-52 xl:px-64">
       <div className="flex flex-col items-center w-full">
         <div className="mb-10 ">
           <h1 className="text-3xl text-center text-white sm:text-4xl font-code_regular">O que é o Dezembro Solidário?</h1>
