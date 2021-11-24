@@ -12,19 +12,15 @@ function Header() {
           />
       <link 
             rel="preload"
-            href="/fonts/Source-Code/SourceCodePro-Bold.ttf"
+            href="/fonts/Poppins/Poppins-Light.ttf"
             as="font"
           />
       <link 
             rel="preload"
-            href="/fonts/Source-Code/SourceCodePro-ExtraLight.ttf"
+            href="/fonts/Poppins/Poppins-Regular.ttf"
             as="font"
           />
-      <link 
-            rel="preload"
-            href="/fonts/Source-Code/SourceCodePro-Regular.ttf"
-            as="font"
-          />
+
       <link rel="icon" href="/favicon.ico" />
     </Head>
   );

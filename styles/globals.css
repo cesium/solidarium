@@ -12,24 +12,16 @@
 }
 
 @font-face {
-  font-family: "Code-bold";
-  src: url("/fonts/Source-Code/SourceCodePro-Bold.ttf");
-  font-style: bold;
-  font-weight: 400;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Code-light";
-  src: url("/fonts/Source-Code/SourceCodePro-ExtraLight.ttf");
+  font-family: "Poppins-light";
+  src: url("/fonts/Poppins/Poppins-Light.ttf");
   font-style: normal;
   font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Code-regular";
-  src: url("/fonts/Source-Code/SourceCodePro-Regular.ttf");
+  font-family: "Poppins-regular";
+  src: url("/fonts/Poppins/Poppins-Regular.ttf");
   font-style: normal;
   font-weight: 400;
   font-display: swap;
