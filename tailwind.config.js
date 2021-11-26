@@ -15,8 +15,8 @@ module.exports = {
     extend: {
       fontFamily: {
         ontel: ["Ontel"],
-        code_light: ["Poppins-light"],
-        code_regular: ["Poppins-regular"],
+        poppins_light: ["Poppins-light"],
+        poppins_regular: ["Poppins-regular"],
       },
       colors: {
         primary: "#D53932",

@@ -7,8 +7,8 @@ export default function SubSections(props){
         <Image src={props.image} alt="Logo" layout="fill"/>
       </div>
       <div className="flex flex-col space-y-6 md:w-3/4">
-        <h1 className="text-2xl text-center text-white sm:text-3xl font-code_regular">{props.title}</h1>
-        <p className="text-justify text-white font-code_light">
+        <h1 className="text-2xl text-center text-white sm:text-3xl font-poppins_regular">{props.title}</h1>
+        <p className="text-justify text-white font-poppins_light">
           {props.body}
         </p>
       </div>

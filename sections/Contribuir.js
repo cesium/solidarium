@@ -21,7 +21,7 @@ export default function Contribuir({id}){
         <SubSections key={item.title} title={item.title} image={item.image} body={item.body} direction={`${ subSections.findIndex(obj => obj == item) % 2 != 0 ? "even" : "odd" }`} last={subSections[subSections.length - 1] == item ? true : false}/>
       ))}
       <div className="mb-6 sm:mb-10">
-        <p className="text-justify text-white font-code_light">
+        <p className="text-justify text-white font-poppins_light">
           Estas são 5 das inúmeras instituições para as quais podem ser feitas as doações nas atividades ao longo de todo o mês de dezembro:
         </p>
       </div>

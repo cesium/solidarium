@@ -34,7 +34,7 @@ export default function Nav() {
             to={item.id}
             smooth={true}
             durantion={1000}
-            className="text-xs text-white cursor-pointer lg:text-base font-code_light hover:text-secondary"
+            className="text-xs text-white cursor-pointer font-poppins_light lg:text-base hover:text-secondary"
           >
             {item.name}
           </Link>

@@ -17,14 +17,14 @@ export default function Atividade(props) {
         <Image src={props.image} alt="Atividade" layout="fill"/>
       </div>
       <div className="flex flex-col md:w-3/4">
-        <p className="pb-4 text-xl text-center text-white sm:text-2xl font-code_regular">{props.title}</p>
+        <p className="pb-4 text-xl text-center text-white sm:text-2xl font-poppins_regular">{props.title}</p>
         <div className="self-start justify-self-start">
           {info.map((item) => (
             <div key={item.icon} className="flex items-center">
             {item.type != '' &&
               <>
-                <FontAwesomeIcon className="text-white font-code_light" icon={item.icon} />
-                <p className="px-2 text-white font-code_light">
+                <FontAwesomeIcon className="text-white font-poppins_light" icon={item.icon} />
+                <p className="px-2 text-white font-poppins_light">
                   {item.type}
                 </p>
               </>
@@ -33,7 +33,7 @@ export default function Atividade(props) {
           ))}
         </div>
         <div className="pt-2">
-          <p className="text-white font-code_light">
+          <p className="text-white font-poppins_light">
             {props.body}
           </p>
         </div>
