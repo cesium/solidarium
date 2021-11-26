@@ -25,7 +25,7 @@ export default function Contribuir({id}){
           Estas são 5 das inúmeras instituições para as quais podem ser feitas as doações nas atividades ao longo de todo o mês de dezembro:
         </p>
       </div>
-      <div className="grid self-center w-10/12 h-full grid-rows-5 gap-10 sm:grid-cols-2 sm:grid-rows-3">
+      <div className="grid self-center w-10/12 grid-rows-5 gap-10 sm:grid-cols-2 sm:grid-rows-3">
         {instituições.map((item) => (
           <Institutions key={item.title} title={item.title} mbway={item.mbway} iban={item.mbway} href={item.href} parity={`${instituições.length % 2 == 0 ? "even" : "odd"}`} last={instituições[instituições.length -1] == item ? true : false} />
         ))}
