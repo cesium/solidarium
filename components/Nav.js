@@ -15,7 +15,6 @@ export default function Nav() {
 
   function toogleSideBarStatus() {
     setStatusSideBar((status) => !status);
-    console.log(isSideBarOpen);
   }
 
   return (
@@ -61,6 +60,7 @@ export default function Nav() {
               className={`${
                 isSideBarOpen ? 'text-primary md:text-white my-2' : 'text-white'
               } text-xs cursor-pointer font-poppins_light lg:text-base hover:text-secondary`}
+              onClick={() => {setStatusSideBar(false)}}
             >
               {item.name}
             </Link>
