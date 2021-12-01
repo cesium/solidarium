@@ -6,7 +6,8 @@ export default function Footer(){
     <div className="flex justify-center h-10 text-center bg-tertiary">
       <h1 className="py-1.5 tracking-widest text-center text-white font-poppins_light pr-2">Made with</h1>
       <FontAwesomeIcon className="self-center mb-1 font-poppins_light text-primary" icon={faHeart} />
-      <h1 className="py-1.5 tracking-widest text-center text-white font-poppins_light pl-2">by CeSIUM</h1>
+      <h1 className="py-1.5 tracking-widest text-center text-white font-poppins_light pl-2">by</h1>
+      <a href="https://cesium.di.uminho.pt/" alt="Site do CeSIUM" className="py-1.5 tracking-widest text-center text-white font-poppins_light pl-2">CeSIUM</a>
     </div>
   )
 }
