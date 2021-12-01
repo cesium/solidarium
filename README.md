@@ -20,7 +20,7 @@ num espírito de solidariedade e partilha, já que no final do mês todos os ben
 recolhidos durante a atividade serão oferecidos a uma instituição social de
 ajuda aos mais necessitados.
 
->>> "Dezembro Solidário" is a social project, which aims to bring a greater
+> "Dezembro Solidário" is a social project, which aims to bring a greater
 celebration of the Christmas season to [Universidade do
 Minho](https://www.uminho.pt/EN) through incentives for the union of the
 academic community, spreading decorations and uniting our student associations
