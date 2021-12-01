@@ -11,7 +11,7 @@ export default function Descrição({id}) {
           <Image src="/images/arvore.svg" alt="Logo" layout="fill"/>
         </div>
         <div className="w-full py-2 my-10 text-center ">
-          <p className="text-justify text-white font-poppins_light">O Dezembro Solidário é um projeto de cariz social, que tem como objetivo trazer uma maior celebração da época natalícia à Universidade do Minho através de incentivos à união da comunidade académica, espalhando decorações e unindo as nossas associações de estudantes num espírito de solidariedade e partilha, já que no final do mês todos os bens recolhidos durante a atividade serão oferecidos a uma instituição social de ajuda aos mais necessitados. Para além disso, ao longo de todo o mês de dezembro os participantes nas atividades inseridas no projeto são incentivados a fazerem doações a instituições de solidariedade. Durante esta iniciativa, todas as atividades participantes serão identificadas pelo símbolo do Dezembro Solidário.</p>
+          <p className="text-center text-white font-poppins_light">O Dezembro Solidário é um projeto de cariz social que tem como objetivo trazer uma maior celebração da época natalícia à Universidade do Minho através de incentivos à união da comunidade académica, espalhando decorações e unindo as nossas associações de estudantes num espírito de solidariedade e partilha. No final do mês, todos os bens alimentares recolhidos durante a atividade serão oferecidos a uma instituição social de ajuda aos mais necessitados. </p>
         </div>
       </div>
     </section>

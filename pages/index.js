@@ -3,7 +3,7 @@ import Nav, { navigation } from '../components/Nav'
 import Hero from '../components/Hero'
 import SectionDivider from '../components/SectionDivider'
 import Description from '../sections/Description'
-import Contribuir from '../sections/Contribuir'
+import Contribute from '../sections/Contribute'
 import Activities from '../sections/Activities'
 import Organization from '../sections/Organization'
 import Partners from '../sections/Partners'
@@ -29,7 +29,7 @@ export default function Home() {
 
       <SectionDivider img="/images/Charity.svg" titulo="Contribuir"/>
 
-      <Contribuir id={getSectionId("Contribuir")}/>
+      <Contribute id={getSectionId("Contribuir")}/>
 
       <SectionDivider img="/images/Gifts.svg" titulo="Atividades"/>
 

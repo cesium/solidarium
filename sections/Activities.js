@@ -1,10 +1,16 @@
 import Ativity from '../components/Activity'
 
 const atividades = [
-  { title: 'Worshop de Adobe Illustrador', data: '8 de dezembro', horas:'21h00', local: 'DI', orador: 'Luis Araujo', organizador: 'CeSIUM', body: 'Workshop sobre ferramenta Adobe Illustrator no qual ser apresentada uma vista global, começando por conceitos básicos desde fonts, cores (CMKY e RGB) ou objetos e layers. Evoluindo depois para as diferentes ferramentas Shape Tolls e Curvature Toll. Por fim, serão apresentandos alguns efeitos e truques mais avançados tais como Drop Shadow, Feather, Inner Glow, entre outros.', image: '/images/cabaz.svg' },
-  { title: 'CAOS Launch Program', data: '7 de dezembro', horas:'18h00', local: 'TBA', orador: '', organizador: 'CeSIUM', body: 'Programa de aprendizagem faseado e estruturado cujo objetivo é o desenvolvimento de competências na área de Web Development. Os alunos podem ingressar em um de três percursos distintos: Miners Guild (FullStack com Ruby e a Framework Rails), Order of the Phoenix (Backend com Elixir e a Framework Phoenix) e Fallout Institute (Frontend com JavaScript e a Framework React), onde podem ganhar skills específicas numa fase inicial para depois se juntarem a uma Launch Team e desenvolver projetos para o CeSIUM.', image: '/images/cabaz.svg' },
-  { title: 'Worshop de Adobe Illustrador3', data: '8 de dezembro', horas:'21h00', local: 'DI', orador: '', organizador: 'CeSIUM', body: '', image: '/images/cabaz.svg' },
-  { title: 'Worshop de Adobe Illustrador4', data: '8 de dezembro', horas:'21h00', local: 'DI', orador: 'Luis Araujo', organizador: 'CeSIUM', body: '', image: '/images/cabaz.svg' },
+  { title: 'Giveaway', data: '2 de dezembro', horas:'21h00', local: '', orador: '', organizador: 'CeSIUM', body: '', image: '/images/Ativities/Giveaway_web.svg' },
+  { title: 'Periférico', data: '4 de dezembro', horas:'14h00', local: 'Youtube/Spotify/', orador: '', organizador: 'CeSIUM', body: '', image: '/images/Ativities/Periferico Publicações 5 Natal.svg' },
+  { title: 'Guião Gloss', data: '6 de dezembro', horas:'21h00', local: 'Youtube', orador: 'Filipe Felício', organizador: 'CeSIUM', body: '', image: '/images/Ativities/Dezembro Solidário TBA.svg' },
+  { title: 'Workshop Web Development', data: '7 de dezembro', horas:'21h00', local: 'Google Meet', orador: '', organizador: 'CeSIUM', body: '', image: '/images/Ativities/Workshop_WebD.svg' },
+  { title: 'Periférico', data: '11 de dezembro', horas:'14h00', local: 'Youtube/Spotify/', orador: '', organizador: 'CeSIUM', body: '', image: '/images/Ativities/Periferico Publicações 6 Natal.svg' },
+  { title: 'Hour of Code', data: '13 de dezembro', horas:'18h00', local: 'Google Meet', orador: '', organizador: 'CeSIUM', body: '', image: '/images/Ativities/Dezembro Solidário TBA.svg' },
+  { title: 'Revisão do Projeto de CP', data: '14 de dezembro', horas:'TBA', local: 'TBA', orador: '', organizador: 'CeSIUM', body: '', image: '/images/Ativities/Dezembro Solidário TBA.svg' },
+  { title: 'Torneio de Brawlhalla', data: '18 de dezembro', horas:'TBA', local: 'Discord CeSIUM', orador: '', organizador: 'CeSIUM', body: '', image: '/images/Ativities/Dezembro Solidário TBA.svg' },
+  { title: 'Periférico', data: '18 de dezembro', horas:'14h00', local: 'Youtube/Spotify/', orador: '', organizador: 'CeSIUM', body: '', image: '/images/Ativities/Dezembro Solidário TBA.svg' },
+  { title: 'Periférico', data: '25 de dezembro', horas:'14h00', local: 'Youtube/Spotify/', orador: '', organizador: 'CeSIUM', body: '', image: '/images/Ativities/Periferico Publicações 8 Natal.svg' },
 ]
 
 export default function Atividades({id}) {
