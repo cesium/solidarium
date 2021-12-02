@@ -4,13 +4,13 @@ const partners = [
   {
     name: 'NEBQUM',
     href: 'https://nebquminho.wixsite.com/nebqum',
-    imageSrc: '/images/Núcleos/nebqum.svg',
+    imageSrc: '/images/Nucleos/nebqum.svg',
     imageAlt: 'Nebqum logo',
   },
   {
     name: 'AAUM',
     href: 'https://aaum.pt/',
-    imageSrc: '/images/Núcleos/aaum.svg',
+    imageSrc: '/images/Nucleos/aaum.svg',
     imageAlt: 'Aaum logo',
   },
 ]
