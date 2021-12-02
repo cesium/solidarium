@@ -20,12 +20,6 @@ const organizators = [
     imageAlt: 'Neeeicum logo',
   },
   {
-    name: 'NEEEICUM',
-    href: 'https://neeeicum.dei.uminho.pt/',
-    imageSrc: '/images/Núcleos/neeeicum.svg',
-    imageAlt: 'Neeeicum logo',
-  },
-  {
     name: 'NEEGIUM',
     href: 'https://www.neegium.dps.uminho.pt/',
     imageSrc: '/images/Núcleos/neegium.svg',

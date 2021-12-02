@@ -7,7 +7,7 @@ const subSections = [
 ]
 
 const instituições = [
-  { title: 'Gualtar', local: 'Departamento de Informatica' },
+  { title: 'Gualtar', local: 'Departamento de Informática' },
   { title: 'Gualtar', local: 'Complexo Pedagógico 1' },
   { title: 'Gualtar', local: 'Complexo Pedagógico 2' },
   { title: 'Gualtar', local: 'Complexo Pedagógico 3' },

@@ -47,7 +47,7 @@ export default function Nav() {
             </div>
           </div>
 
-          <div className={`${ !isSideBarOpen ? '-translate-y-64 opacity-0' : undefined } relative z-10 transform -translate-y-1 opacity-100 duration-200 ease-in-out`}>
+          <div className={`${ !isSideBarOpen ? '-translate-y-64 sm:translate-y-0' : undefined } relative z-10 transform duration-200 ease-in-out`}>
             <div
               className={`${
                 isSideBarOpen
