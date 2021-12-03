@@ -4,25 +4,25 @@ const organizators = [
   {
     name: 'CeSIUM',
     href: 'https://cesium.di.uminho.pt/',
-    imageSrc: '/images/Núcleos/CeSIUM.svg',
+    imageSrc: '/images/Nucleos/CeSIUM.svg',
     imageAlt: 'CeSIUM logo',
   },
   {
     name: 'gaeb',
     href: 'http://www.gaeb.pt/',
-    imageSrc: '/images/Núcleos/gaeb.svg',
+    imageSrc: '/images/Nucleos/gaeb.svg',
     imageAlt: 'Gaeb logo',
   },
   {
     name: 'NEEEICUM',
     href: 'https://neeeicum.dei.uminho.pt/',
-    imageSrc: '/images/Núcleos/neeeicum.svg',
+    imageSrc: '/images/Nucleos/neeeicum.svg',
     imageAlt: 'Neeeicum logo',
   },
   {
     name: 'NEEGIUM',
     href: 'https://www.neegium.dps.uminho.pt/',
-    imageSrc: '/images/Núcleos/neegium.svg',
+    imageSrc: '/images/Nucleos/neegium.svg',
     imageAlt: 'Neegium logo',
   },
   {
