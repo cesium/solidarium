@@ -2,7 +2,7 @@ import Image from 'next/image'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCalendarAlt, faClock, faMapMarkedAlt, faUser, faUsers } from '@fortawesome/free-solid-svg-icons'
 
-export default function Atividade(props) {
+export default function Ativity(props) {
   const info = [
     {"type": props.data , "icon": faCalendarAlt },
     {"type": props.horas, "icon": faClock},

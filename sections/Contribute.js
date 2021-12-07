@@ -2,7 +2,7 @@ import Locations from '../components/Locations'
 import SubSections from '../components/SubSections'
 
 const subSections = [
-  { title: 'Contribuir em cabazes de natal', image:'/images/Cabaz.svg', body: 'De modo a envolver e apelar à participação de toda a comunidade académica, desde alunos, funcionários, professores a possíveis visitantes para ajudar quem mais precisa, por toda a Universidade do Minho, poderás encontrar cabazes, identificados com a iniciativa, para recolha de bens alimentares, porque por mais pequena que seja a nossa contribuição, todos juntos faremos a diferença.' },
+  { title: 'Contribuir em cabazes de natal', image:'/images/Assets/Cabaz.svg', body: 'De modo a envolver e apelar à participação de toda a comunidade académica, desde alunos, funcionários, professores a possíveis visitantes para ajudar quem mais precisa, por toda a Universidade do Minho, poderás encontrar cabazes, identificados com a iniciativa, para recolha de bens alimentares, porque por mais pequena que seja a nossa contribuição, todos juntos faremos a diferença.' },
   //{ title: 'Contribuir ao participar nos eventos listados', image:'/images/Gift.svg', body: 'Ainda de modo a criar um espírito de partilha e de solidariedade entre todos durante este mês, todos os Núcleos, Associações e Secções participantes nesta iniciativa irão também cobrar na participação nas suas atividades, ou num grupo de atividades específico, a doação de bens alimentares, peças de vestuário ou brinquedos num dos cabazes espalhados pela Universidade ou a doação por MB Way ou transferência para uma instituição de solidariedade à escolha. No MB Way já existe a opção de fazer doações em “Ser Solidário”.'},
 ]
 
