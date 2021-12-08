@@ -9,7 +9,7 @@ const atividades = [
   { title: 'Torneio de Brawlhalla', data: '17 de dezembro', horas:'TBA', local: 'Discord CeSIUM', orador: '', organizador: 'CeSIUM', body: `Torneio num "fighting plataform" onde poderás competir em equipas de 2, sendo que pelo menos um dos partecipantes tem de pertencer à universade do Minho.`, image: '/images/Ativities/Brawlhala.svg' },
 ]
 
-export default function Ativities({id}) {
+export default function Activities({id}) {
   return(
     <div id={id} className="flex flex-col h-full px-6 py-52 sm:px-20 lg:px-52 xl:px-64 bg-tertiary">
       {atividades.map((item) => (
