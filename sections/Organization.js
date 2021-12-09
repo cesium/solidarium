@@ -27,13 +27,13 @@ const organizators = [
   },
   {
     name: 'ACE',
-    href: 'https://www.instagram.com/neemat.uminho/',
+    href: 'https://www.instagram.com/acejunioragency/',
     imageSrc: '/images/Nucleos/ACE.svg',
     imageAlt: 'Ace logo',
   },
   {
     name: 'NEEMAT',
-    href: 'https://neeeicum.dei.uminho.pt/',
+    href: 'https://www.instagram.com/neemat.uminho/',
     imageSrc: '/images/Nucleos/neemat.svg',
     imageAlt: 'Neemat logo',
   },

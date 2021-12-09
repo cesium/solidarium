@@ -23,23 +23,23 @@ export default function Home() {
 
       <Hero />
 
-      <SectionDivider img="/images/sticker.svg" titulo="Descrição"/>
+      <SectionDivider img="/images/Assets/sticker.svg" titulo="Descrição"/>
 
       <Description id={getSectionId("Descrição")} />
 
-      <SectionDivider img="/images/Charity.svg" titulo="Contribuir"/>
+      <SectionDivider img="/images/Assets/Charity.svg" titulo="Contribuir"/>
 
       <Contribute id={getSectionId("Contribuir")}/>
 
-      <SectionDivider img="/images/Gifts.svg" titulo="Atividades"/>
+      <SectionDivider img="/images/Assets/Gifts.svg" titulo="Atividades"/>
 
       <Activities id={getSectionId("Atividades")} />
 
-      <SectionDivider img="/images/Organization.svg" titulo="Organização"/>
+      <SectionDivider img="/images/Assets/Organization.svg" titulo="Organização"/>
 
       <Organization id={getSectionId("Organização")} />
 
-      <SectionDivider img="/images/Partners.svg" titulo="Parceiros"/>
+      <SectionDivider img="/images/Assets/Partners.svg" titulo="Parceiros"/>
 
       <Partners id={getSectionId("Parceiros")} />
 
