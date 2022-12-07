@@ -19,9 +19,9 @@ module.exports = {
         poppins_regular: ["Poppins-regular"],
       },
       colors: {
-        primary: "#D53932",
-        secondary: "#9c191b",
-        tertiary: "#1c6131"
+        primary: "#9f1d26",
+        secondary: "#ffe4d9",
+        tertiary: "#ffe4d9"
       }
     },
   },

@@ -22,7 +22,7 @@ export default function Contribuir({id}){
         <SubSections key={item.title} title={item.title} image={item.image} body={item.body} direction={`${ subSections.findIndex(obj => obj == item) % 2 != 0 ? "even" : "odd" }`} last={subSections[subSections.length - 1] == item ? true : false}/>
       ))}
       <div className="mb-6 sm:mb-10">
-        <p className="text-justify text-white font-poppins_light">
+        <p className="text-justify text-secondary font-poppins_light">
           Locais onde podes encontrar os nossos cabazes:
         </p>
       </div>
