@@ -5,7 +5,7 @@ export default function Descrição({id}) {
     <section id={id} className="h-full px-6 py-52 bg-tertiary sm:px-20 lg:px-52 xl:px-64">
       <div className="flex flex-col items-center w-full">
         <div className="mb-10 ">
-          <h1 className="text-3xl text-center text-primary sm:text-4xl font-poppins_regular">O que é o Dezembro Solidário?</h1>
+          <h1 className="text-center text-primary text-7xl font-ontel">O que é o Dezembro Solidário?</h1>
         </div>
         <div className="relative w-full h-40 px-3 mb-4 text-center">
           <Image src="/images/Assets/Arvore.svg" alt="Logo" layout="fill"/>

@@ -24,7 +24,7 @@ const organizators = [
 export default function Organization({id}){
   return(
     <div id={id} className="flex flex-col h-full px-6 pt-20 pb-52 sm:px-20 lg:px-52 xl:px-64 bg-secondary">
-      <h1 className="mx-auto mb-32 text-primary text-3xl font-md">Organizadores</h1>
+      <h1 className="mx-auto mb-32 text-primary text-7xl font-ontel">Organizadores</h1>
       <div className="grid grid-cols-1 justify-items-center gap-y-10 md:grid-cols-2 lg:grid-cols-3 gap-x-6 ">
         {organizators.map((item) => (
           <a key={item.name} href={item.href} className={`${organizators[organizators.length - 1] == item && (organizators.length % 4 == 0 || organizators.length == 1) ? 'sm:col-span-3' : undefined} w-40 group `}>

@@ -5,7 +5,6 @@ import { useState } from "react";
 export const navigation = [
   { name: "Descrição", id: "description" },
   { name: "Contribuir", id: "contribute" },
-  { name: "Atividades", id: "activities" },
   { name: "Organização", id: "organization" },
   { name: "Parceiros", id: "partners" },
 ];

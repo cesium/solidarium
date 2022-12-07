@@ -18,7 +18,8 @@ const partners = [
 
 export default function Partners({id}){
   return(
-    <div id={id} className="flex flex-col h-full px-6 pb-40 pt-52 sm:px-20 lg:px-52 xl:px-64 bg-primary">
+    <div id={id} className="flex flex-col h-full px-6 pb-40 pt-20 pb-52 sm:px-20 lg:px-52 xl:px-64 bg-primary">
+      <h1 className="mx-auto mb-32 text-secondary text-7xl font-ontel">Parceiros</h1>
       <div className="grid grid-cols-1 justify-items-center gap-y-10 md:grid-cols-2 lg:grid-cols-3 gap-x-6 ">
         {partners.map((item) => (
           <a key={item.name} href={item.href} className={`${partners[partners.length - 1] == item && (partners.length % 4 == 0 || partners.length == 1) ? 'sm:col-span-3' : undefined} w-40 group`}>

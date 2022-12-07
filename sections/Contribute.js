@@ -11,13 +11,21 @@ const instituições = [
   { title: 'Gualtar', local: 'Complexo Pedagógico 1' },
   { title: 'Gualtar', local: 'Complexo Pedagógico 2' },
   { title: 'Gualtar', local: 'Complexo Pedagógico 3' },
+  { title: 'Gualtar', local: 'Escola de Direito' },
+  { title: 'Gualtar', local: 'Escola de Medicina' },
   { title: 'Azurém', local: 'Nave Principal' },
+  { title: 'Azurém', local: 'Escola de Engenharia' },
+  { title: 'Azurém', local: 'Escola de Ciências' },
+  { title: 'Azurém', local: 'Escola de Arquitetura' },
+  { title: 'Couros', local: 'IDEGUI' },
+  { title: 'Couros', local: 'Garagem avenida' },
   { title: 'Núcleos', local: 'Todas as salas dos núcleos organizadores' },
 ]
 
 export default function Contribuir({id}){
   return(
-    <div id={id} className="flex flex-col h-full px-6 py-52 sm:px-20 lg:px-52 xl:px-64 bg-primary">
+    <div id={id} className="flex flex-col h-full px-6 pt-20 pb-52 sm:px-20 lg:px-52 xl:px-64 bg-primary">
+      <h1 className="mx-auto text-secondary font-ontel text-7xl">Contribuir</h1>
       {subSections.map((item) => (
         <SubSections key={item.title} title={item.title} image={item.image} body={item.body} direction={`${ subSections.findIndex(obj => obj == item) % 2 != 0 ? "even" : "odd" }`} last={subSections[subSections.length - 1] == item ? true : false}/>
       ))}
