@@ -27,7 +27,7 @@ export default function Home() {
 
       <Contribute id={getSectionId("Contribuir")}/>
 
-{/*<Activities id={getSectionId("Atividades")} />*/}
+    {/*<Activities id={getSectionId("Atividades")} />*/}
 
       <Organization id={getSectionId("Organização")} />
 

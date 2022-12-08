@@ -5,13 +5,13 @@ export default function Descrição({id}) {
     <section id={id} className="h-full px-6 py-52 bg-tertiary sm:px-20 lg:px-52 xl:px-64">
       <div className="flex flex-col items-center w-full">
         <div className="mb-10 ">
-          <h1 className="text-center text-primary text-7xl font-ontel">O que é o Dezembro Solidário?</h1>
+          <h1 className="text-center text-primary text-7xl font-ontel">O que é o SolidariUM?</h1>
         </div>
         <div className="relative w-full h-40 px-3 mb-4 text-center">
           <Image src="/images/Assets/Arvore.svg" alt="Logo" layout="fill"/>
         </div>
         <div className="w-full py-2 my-10 text-center ">
-          <p className="text-center text-primary font-poppins_light">O Dezembro Solidário é um projeto de cariz social que tem como objetivo trazer uma maior celebração da época natalícia à Universidade do Minho através de incentivos à união da comunidade académica, espalhando decorações e unindo as nossas associações de estudantes num espírito de solidariedade e partilha. No final do mês, todos os bens alimentares recolhidos durante a atividade serão oferecidos a uma instituição social de ajuda aos mais necessitados. </p>
+          <p className="text-center text-primary font-poppins_light">O SolidariUM é um movimento criado por diversos núcleos de estudantes da Universidade do Minho! Este tem como principal objetivo criar atividades de cariz social dentro da comunidade académica, de forma a que seja possível ajudar os mais carenciados através de doações a instituições sociais.. Procura o nosso selo nas atividades do teu núcleo para saberes se estás a contribuir para esta causa! Não percas tempo e vem ser SolidariUM connosco! </p>
         </div>
       </div>
     </section>
