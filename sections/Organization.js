@@ -8,10 +8,10 @@ const organizators = [
     imageAlt: 'CeSIUM logo',
   },
   {
-    name: 'gaeb',
-    href: 'http://www.gaeb.pt/',
-    imageSrc: '/images/Nucleos/gaeb.svg',
-    imageAlt: 'Gaeb logo',
+    name: 'NECC',
+    href: 'https://necc.di.uminho.pt/',
+    imageSrc: '/images/Nucleos/necc.svg',
+    imageAlt: 'Necc logo',
   },
   {
     name: 'NEEEICUM',
