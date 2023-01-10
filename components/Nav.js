@@ -28,7 +28,7 @@ export default function Nav() {
             <span className="sr-only">Logo</span>
             <img
               className="w-auto h-10"
-              src="/images/Assets/solidarium.svg"
+              src="/images/Assets/Solidarium.svg"
               alt="logo"
             />
           </a>
