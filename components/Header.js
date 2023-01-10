@@ -3,7 +3,7 @@ import Head from 'next/head';
 function Header() {
   return (
     <Head>
-      <title>Dezembro Solidário</title>
+      <title>Solidarium</title>
       <link
             rel="preload"
             href="/fonts/Ontel-font/Ontel.ttf"

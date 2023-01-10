@@ -8,10 +8,10 @@ const organizators = [
     imageAlt: 'CeSIUM logo',
   },
   {
-    name: 'gaeb',
-    href: 'http://www.gaeb.pt/',
-    imageSrc: '/images/Nucleos/gaeb.svg',
-    imageAlt: 'Gaeb logo',
+    name: 'NECC',
+    href: 'https://necc.di.uminho.pt/',
+    imageSrc: '/images/Nucleos/necc.svg',
+    imageAlt: 'Necc logo',
   },
   {
     name: 'NEEEICUM',
@@ -19,29 +19,12 @@ const organizators = [
     imageSrc: '/images/Nucleos/neeeicum.svg',
     imageAlt: 'Neeeicum logo',
   },
-  {
-    name: 'NEEGIUM',
-    href: 'https://www.neegium.dps.uminho.pt/',
-    imageSrc: '/images/Nucleos/neegium.svg',
-    imageAlt: 'Neegium logo',
-  },
-  {
-    name: 'ACE',
-    href: 'https://www.instagram.com/acejunioragency/',
-    imageSrc: '/images/Nucleos/ACE.svg',
-    imageAlt: 'Ace logo',
-  },
-  {
-    name: 'NEEMAT',
-    href: 'https://www.instagram.com/neemat.uminho/',
-    imageSrc: '/images/Nucleos/neemat.svg',
-    imageAlt: 'Neemat logo',
-  },
 ]
 
 export default function Organization({id}){
   return(
-    <div id={id} className="flex flex-col h-full px-6 py-52 sm:px-20 lg:px-52 xl:px-64 bg-primary">
+    <div id={id} className="flex flex-col h-full px-6 pt-20 pb-52 sm:px-20 lg:px-52 xl:px-64 bg-secondary">
+      <h1 className="mx-auto mb-32 text-primary text-7xl font-ontel">Organizadores</h1>
       <div className="grid grid-cols-1 justify-items-center gap-y-10 md:grid-cols-2 lg:grid-cols-3 gap-x-6 ">
         {organizators.map((item) => (
           <a key={item.name} href={item.href} className={`${organizators[organizators.length - 1] == item && (organizators.length % 4 == 0 || organizators.length == 1) ? 'sm:col-span-3' : undefined} w-40 group `}>
@@ -50,7 +33,7 @@ export default function Organization({id}){
                 src={item.imageSrc}
                 alt={item.imageAlt}
                 layout="fill"
-                className="object-center w-full h-full group-hover:opacity-75"
+                className="object-center w-full h-full  group-hover:opacity-75"
               />
             </div>
           </a>

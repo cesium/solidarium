@@ -5,7 +5,6 @@ import { useState } from "react";
 export const navigation = [
   { name: "Descrição", id: "description" },
   { name: "Contribuir", id: "contribute" },
-  { name: "Atividades", id: "activities" },
   { name: "Organização", id: "organization" },
   { name: "Parceiros", id: "partners" },
 ];
@@ -29,7 +28,7 @@ export default function Nav() {
             <span className="sr-only">Logo</span>
             <img
               className="w-auto h-10"
-              src="/images/Assets/arvore.svg"
+              src="/images/Assets/Solidarium.svg"
               alt="logo"
             />
           </a>

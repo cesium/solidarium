@@ -5,7 +5,7 @@
 [netlify-build]: https://app.netlify.com/sites/dezembro-solidario/deploys
 
 <a href="https://dezembrosolidario.cesium.di.uminho.pt" target="_blank">
-  <img align="right" src="public/images/Assets/Sticker.svg" alt="Dezembro Solidário" width="250">
+  <img align="right" src="public/images/Solidarium.svg" alt="Solidarium" width="250">
 </a>
 
 # :christmas_tree: Dezembro Solidário
