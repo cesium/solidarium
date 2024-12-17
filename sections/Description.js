@@ -11,7 +11,7 @@ export default function Descrição({id}) {
           <Image src="/images/Assets/Solidarium.svg" alt="Logo" layout="fill"/>
         </div>
         <div className="w-1/2 py-2 my-10 text-center ">
-          <p className="text-center text-primary font-poppins_light">O SolidariUM é um movimento criado por diversos núcleos de estudantes da Universidade do Minho! Este tem como principal objetivo criar atividades de cariz social dentro da comunidade académica, de forma a que seja possível ajudar os mais carenciados através de doações a instituições sociais.. Procura o nosso selo nas atividades do teu núcleo para saberes se estás a contribuir para esta causa! Não percas tempo e vem ser SolidariUM connosco! </p>
+          <p className="text-center text-primary font-poppins_light">O SolidariUM é um movimento dinamizado por diversos núcleos de estudantes da Universidade do Minho tendo como principal objetivo organizar atividades de cariz social no seio da comunidade académica. Procura o nosso selo nas atividades do teu núcleo para saberes se estás a contribuir para esta causa! Não percas tempo e vem ser SolidariUM connosco! </p>
         </div>
       </div>
     </section>

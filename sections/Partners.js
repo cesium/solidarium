@@ -2,6 +2,12 @@ import Image from 'next/image'
 
 const partners = [
   {
+    name: 'NADA',
+    href: 'https://www.instagram.com/nada.uminho/',
+    imageSrc: '/images/Nucleos/nada.svg',
+    imageAlt: 'NADA logo',
+  },
+  /*{
     name: 'NEBQUM',
     href: 'https://nebquminho.wixsite.com/nebqum',
     imageSrc: '/images/Nucleos/nebqum.svg',
@@ -56,12 +62,6 @@ const partners = [
     imageAlt: 'GEOPLAN logo',
   },
   {
-    name: 'NADPUM',
-    href: 'https://www.instagram.com/nadp.uminho/',
-    imageSrc: '/images/Nucleos/nadpum.png',
-    imageAlt: 'NADPUM logo',
-  }, 
-  {
     name: 'NEEGIUM',
     href: 'https://www.instagram.com/neegium/',
     imageSrc: '/images/Nucleos/neegium.svg',
@@ -114,7 +114,7 @@ const partners = [
     href: 'https://www.instagram.com/elsauminho/',
     imageSrc: '/images/Nucleos/elsa.png',
     imageAlt: 'ELSA logo',
-  },
+  },*/
 ]
 
 

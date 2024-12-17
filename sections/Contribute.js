@@ -10,9 +10,7 @@ const instituições = [
   { title: 'Gualtar', local: 'Departamento de Informática' },
   { title: 'Gualtar', local: 'Complexo Pedagógico 1' },
   { title: 'Gualtar', local: 'Complexo Pedagógico 2' },
-  { title: 'Gualtar', local: 'Complexo Pedagógico 3' },
   { title: 'Gualtar', local: 'Escola de Direito' },
-  { title: 'Gualtar', local: 'Escola de Medicina' },
   { title: 'Azurém', local: 'Nave Principal' },
   { title: 'Azurém', local: 'Escola de Engenharia' },
   { title: 'Azurém', local: 'Escola de Ciências' },
@@ -25,10 +23,10 @@ const instituições = [
 export default function Contribuir({id}){
   return(
     <div id={id} className="flex flex-col h-full px-6 pt-20 pb-52 sm:px-20 lg:px-52 xl:px-64 bg-primary">
-      <h1 className="mx-auto text-secondary font-ontel text-7xl">Locais onde podes encontrar os nosso cabazes</h1>
+      <h1 className="mx-auto text-secondary font-ontel text-6xl">Locais onde podes encontrar os nosso cabazes</h1>
       <div className="mb-6 sm:mb-10">
       </div>
-      <div className="grid self-center w-10/12 grid-rows-5 gap-10 sm:grid-cols-2 sm:grid-rows-3">
+      <div className="grid self-center w-8/10 grid-rows-5 gap-4 sm:grid-cols-2 sm:grid-rows-3">
         {instituições.map((item) => (
           <Locations key={item.title} title={item.title} local={item.local} parity={`${instituições.length % 2 == 0 ? "even" : "odd"}`} last={instituições[instituições.length -1] == item ? true : false} />
         ))}
