@@ -11,7 +11,6 @@ const instituições = [
   { title: 'Gualtar', local: 'Complexo Pedagógico 1' },
   { title: 'Gualtar', local: 'Complexo Pedagógico 2' },
   { title: 'Gualtar', local: 'Escola de Direito' },
-  { title: 'Gualtar', local: 'Escola de Medicina' },
   { title: 'Azurém', local: 'Nave Principal' },
   { title: 'Azurém', local: 'Escola de Engenharia' },
   { title: 'Azurém', local: 'Escola de Ciências' },
